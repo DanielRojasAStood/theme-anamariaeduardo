@@ -195,6 +195,7 @@ $tabs = [
                         <?php if (!empty($tab['members'])) { ?>
                             <?php foreach ($tab['members'] as $index => $member) { ?>
                                 <div class="member-name" data-tab="tab<?php echo $key; ?>-member<?php echo $index; ?>">
+                                    <span class="member-img"></span>
                                     <h2 class="text--14"><?php echo $member['name']; ?></h2>
                                     <p class="text--11"><?php echo $member['rol-en']; ?></p>
                                 </div>
