@@ -445,7 +445,7 @@ body {
 
   &__menu {
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
     align-items: center;
     text-align: center;
 
@@ -514,7 +514,7 @@ body {
     }
 
     @media only screen and (min-width: 1280px) {
-      padding: 0 33px;
+      padding: 0 25px;
       font-size: var(--14);
     }
 
@@ -618,6 +618,10 @@ body {
 
       @media only screen and (min-width: 1440px) {
         margin: 134px auto 0 24%;
+      }
+
+      @media only screen and (min-height: 600px) {
+        margin: 134px auto 100px 24%;
       }
     }
   }
@@ -781,7 +785,7 @@ body {
       padding: 40px 20px;
 
       @media only screen and (min-width: 1024px) {
-        height: 500px;
+        height: 70vh;
         margin: 132px auto;
         padding: 55px 48px;
       }
@@ -806,6 +810,10 @@ body {
       position: relative;
       height: 286px;
       overflow-y: auto;
+
+      @media only screen and (min-width: 1024px) {
+        height: 355px;
+      }
     }
 
     &__content {
@@ -818,6 +826,10 @@ body {
       flex-direction: column;
       justify-content: center;
       box-sizing: border-box;
+
+      @media only screen and (min-width: 1024px) {
+        padding-bottom: 80px;
+      }
 
       .text--11 {
         margin-bottom: 20px;
@@ -1017,6 +1029,7 @@ body {
       max-width: 860px;
       margin: 100px auto 0;
       padding: 40px 20px;
+      background: rgba(255, 255, 255, 0.85);
 
       .text--22 {
         line-height: normal;
@@ -1552,26 +1565,33 @@ input[type="radio"]:checked + span:before {
   &-prev {
     width: 41px;
     height: 41px;
+    z-index: 1;
+    top: 60%;
   }
 
   &-next {
-    background: url("../../img/arrow-next.svg");
-    background-repeat: no-repeat;
-    background-size: 40px;
     right: 0;
     &:before {
+      display: block;
+      width: 44px;
+      height: 44px;
       font-size: 0;
+      background: url("../../img/arrow-next.svg");
+      background-repeat: no-repeat;
+      background-size: 40px;
     }
   }
 
   &-prev {
-    background: url("../../img/arrow-prev.svg");
-    background-repeat: no-repeat;
-    background-size: 40px;
     left: 0;
-
     &::before {
+      display: block;
+      width: 44px;
+      height: 44px;
       font-size: 0;
+      background: url("../../img/arrow-prev.svg");
+      background-repeat: no-repeat;
+      background-size: 40px;
     }
   }
 

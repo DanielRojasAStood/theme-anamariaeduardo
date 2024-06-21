@@ -58,6 +58,19 @@ export function initSlickCarousels() {
     ],
   });
 
+  $(".slickGallery").slick({
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    navigation: {
+      nextEl: ".swiper-button-next-1",
+      prevEl: ".swiper-button-prev-1",
+    },
+  });
+
   function initSlick() {
     $(".slickPlace").each(function () {
       var $slickElement = $(this);

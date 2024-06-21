@@ -65,7 +65,27 @@ $love = [
     'text-en' => "Lalo & Ana choose 7/27/2024 as the day when they will promise eternal love to one another with their families and God as their witness! Their hearts were overfilled with joy as they began planning their destination wedding in Cartagena! They would soon find out wedding planning is not all unicorns and rainbows! Lol The challenges have been many, but in typical Lalo & Ana fashion, they overcome any challenge they are presented with. Together, hand in hand, and always with God's guidance. They cannot wait to see what adventures this year will bring and what plans God has in store for them. They thank him for all their blessings and for putting such loving and wonderful people in their lives. You all are now part of their journey and celebrating their wedding day with you all in Cartagena is a dream come true! ",
     'text-es' => "¡Lalo y Ana eligen 27/7/2024 como el día en el que se prometerán amor eterno frente a sus familias y con Dios como testigo! ¡Sus corazones se llenaron de alegría cuando comenzaron a planear su boda de destino en Cartagena! ¡Pronto descubrirían que la planeacion de bodas no es solo color de rosa! Jaja Los desafíos han sido muchos, pero al estilo típico de Lalo y Ana, superan cualquier desafío que se les presenta. Juntos, de la mano, y siempre con la guía de Dios. Les emociona pensar en las aventuras que puedan traer este año y en los planes que tenga Dios reservados para ellos. Le agradecen a Dios por todas sus bendiciones y por poner personas tan amorosas y maravillosas en sus vidas. ¡Ahora todos son parte de su historia y poder celebrar el día de su boda con ustedes en Cartagena es un sueño hecho realidad!",
   ]
-]
+  ];
+
+$gallery = [
+  ["image" => "historia de amor 1.webp"], 
+  ["image" => "historia de amor 2.webp"], 
+  ["image" => "historia de amor 3.webp"], 
+  ["image" => "historia de amor 4.webp"], 
+  ["image" => "historia de amor 5.webp"], 
+  ["image" => "historia de amor 6.webp"], 
+  ["image" => "historia de amor 7.webp"], 
+  ["image" => "historia de amor 8.webp"], 
+  ["image" => "historia de amor 9.webp"], 
+  ["image" => "historia de amor 10.webp"], 
+  ["image" => "historia de amor 11.webp"], 
+  ["image" => "historia de amor 12.webp"], 
+  ["image" => "historia de amor 13.webp"], 
+  ["image" => "historia de amor 14.webp"], 
+  ["image" => "historia de amor 15.webp"], 
+  ["image" => "historia de amor 16.webp"], 
+  ["image" => "historia de amor 17.webp"],
+  ]
 ?>
 
 <main>
@@ -76,7 +96,12 @@ $love = [
       <h2 class="text--56 pb-7 text-center pb-28">Nuestra Historia</h2>
 
       <div class="grid">
-        <div class="sectionOurLove__img">
+        <div class="sectionOurLove__img slickGallery">
+          <?php 
+            foreach ($gallery as $img) {
+              echo "<img src='" . IMG_BASE . "history/" . $img['image'] . "' alt=''>";
+              }
+          ?>
         </div>
         <div class="sectionOurLove__scroll">
           <div class="sectionOurLove__content">

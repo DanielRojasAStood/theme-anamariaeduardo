@@ -225,7 +225,7 @@ $faqs = [
             <h2 class="text--56 pb-57">Celebrate with us!</h2>
             <?php echo do_shortcode('[contact-form-7 id="f96efb5" title="RSVP"]')?>
 
-            <div class="sectionRSVP__faqs">
+            <div class="sectionRSVP__faqs" id="faqs">
                 <p class="text--22">F.A.Q.S.</p>
                 <h2 class="text--56 pb-48">Preguntas Frecuentes</h2>
                 <?php foreach ($faqs as $key => $faq) { ?>
