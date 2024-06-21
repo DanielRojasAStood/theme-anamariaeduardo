@@ -6,7 +6,7 @@ import "slick-carousel";
 export function initSlickCarousels() {
   /* Slicks */
   $(".slick0").slick({
-    dots: false,
+    dots: true,
     slidesToShow: 3,
     navigation: {
       nextEl: ".swiper-button-next-0",
@@ -59,7 +59,7 @@ export function initSlickCarousels() {
   });
 
   function initSlick() {
-    $(".slick-events").each(function () {
+    $(".slickPlace").each(function () {
       var $slickElement = $(this);
       var slickOptions = {
         slidesToShow: 3,

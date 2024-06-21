@@ -9,44 +9,56 @@ get_header();
     <section class="sectionEvents">
         <div class="sectionEvents__bckg-fixed"></div>
         <div class="box text-center">
-          <div class="grid grid--3">
-            <div class="sectionEvents__text mobile">
-              <h2 class="text--22" style="height: 15px">EVENTS</h2>
-              <h2 class="text--56 pb-7">Eventos</h2>
-            </div>
-            <div>
-              <div class="pb-7">
-                <img src="<?php echo IMG_BASE . 'beach.png'?>" alt="">
-              </div>
-              <div class="col">
-                <p class="text--16" style="line-height: 7px">WELCOME</p>
-                <p class="text--30 pb-7">Bienvenida</p>
-                <p class="text--16" style="letter-spacing:normal">July 25th, 2024</p>
-                <p class="text--16 pb-7" style="letter-spacing:normal">Aguazul Beach Resort, Barú</p>
-                <a href="#" class="button button--pink">Map Location</a>
-                <p class="text--14 pt-7 pb-7">8:30 a.m. 7:00 p.m.</p>
-                <div class="pb-7">
-                  <button type="button" href="#" class="button button--pink" data-modal-1>More Info.</button>
-                </div>
-                <button type="button" href="#" class="button button--pink" data-modal-2>Dress Code</button>
-              </div>
-            </div>
+          <div class="grid grid--1-4">
+            
             <div class="sectionEvents__text desktop">
               <h2 class="text--22" style="height: 15px">EVENTS</h2>
               <h2 class="text--56 pb-7">Eventos</h2>
             </div>
-            <div>
-              <div class="pb-7">
-                <img src="<?php echo IMG_BASE . 'church.png'?>" alt="">
+            <div class="border">
+              <div class="grid grid--1-3 pb-28">
+                <div class="pb-7">
+                  <img src="<?php echo IMG_BASE . 'beach.png'?>" alt="">
+                </div>
+                <div class="col">
+                  <p class="text--16" style="line-height: 7px">WELCOME</p>
+                  <p class="text--30 pb-7">Bienvenida</p>
+                  <p class="text--16" style="letter-spacing:normal">July 25th, 2024</p>
+                  <p class="text--16 pb-7" style="letter-spacing:normal">Aguazul Beach Resort, Barú</p>
+                  <p class="text--14 pb-11">8:30 a.m. 7:00 p.m.</p>
+                  <div class="flex pb-7">
+                    <button type="button" class="button button--pink" data-open-modal="modal-4">More Info.</button>
+                  </div>
+                  <div class="flex">
+                    <div class="pb-7">
+                      <button type="button" href="#" class="button button--pink" data-open-modal="modal-1">Dress Code</button>
+                    </div>
+                    <div class="pb-7">
+                      <a href="https://maps.app.goo.gl/pwYDhzBV1gMPEKGm6" target="_blank" class="button button--pink" data-modal-1>Map Location</a>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div class="col">
-                <p class="text--16" style="line-height: 7px">FAREWELL</p>
-                <p class="text--30 pb-7">Despedida</p>
-                <p class="text--16" style="letter-spacing:normal">July 28th, 2024</p>
-                <p class="text--16 pb-7" style="letter-spacing:normal">Hotel Movich, Rooftop</p>
-                <a href="#" class="button button--pink">Map Location</a>
-                <p class="text--14 pt-7 pb-7">3:00 p.m.</p>
-                <a href="#" href="#" class="button button--pink">Dress Code</a>
+              
+              <div class="grid grid--1-3 pb-28">
+                <div class="pb-7">
+                  <img src="<?php echo IMG_BASE . 'church.png'?>" alt="">
+                </div>
+                <div class="col">
+                  <p class="text--16" style="line-height: 7px">FAREWELL</p>
+                  <p class="text--30 pb-7">Despedida</p>
+                  <p class="text--16" style="letter-spacing:normal">July 28th, 2024</p>
+                  <p class="text--16 pb-7" style="letter-spacing:normal">Hotel Movich, Rooftop</p>
+                  <p class="text--14 pb-11">3:00 p.m.</p>
+                  <div class="flex">
+                    <div class="pb-7">
+                      <button type="button" class="button button--pink" data-open-modal="modal-2">Dress Code</button>
+                    </div>
+                    <div class="pb-7">
+                      <a href="https://maps.app.goo.gl/m7TsbLtch1Y3kmjA6" target="_blank" class="button button--pink">Map Location</a>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

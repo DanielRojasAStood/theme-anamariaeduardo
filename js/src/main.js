@@ -2,11 +2,11 @@ import { initSlickCarousels } from "./slick-init";
 import { toggleMenu, closeMenu } from "./menu-init";
 import { openModal, closeModal } from "./modal-init";
 import {} from "./tab-init";
-// import { countdownTimer } from "./countdown-init";
+import { countdownTimer } from "./countdown-init";
 
-// var target_date = new Date("March 7, 2025 17:00:00").getTime();
-// var current_date = new Date().getTime();
-// var seconds_left = (target_date - current_date) / 1000;
+var target_date = new Date("July 25, 2024 17:00:00").getTime();
+var current_date = new Date().getTime();
+var seconds_left = (target_date - current_date) / 1000;
 
 let Main = {
   init: async function () {
@@ -16,7 +16,7 @@ let Main = {
       openModal();
       closeModal();
       initSlickCarousels();
-      // countdownTimer(seconds_left);
+      countdownTimer(seconds_left);
     });
   },
 };

@@ -42,6 +42,7 @@
   </a>
   <nav>
     <ul class="header__menu">
+      <li><a class="header__link <?php if (is_page('home')) echo 'active'; ?>" href="<?php echo site_url('/'); ?>">HOME</a></li>
       <li><a class="header__link <?php if (is_page('welcome')) echo 'active'; ?>" href="<?php echo site_url('/welcome'); ?>">WELCOME</a></li>
       <li><a class="header__link <?php if (is_page('wedding')) echo 'active'; ?>" href="<?php echo site_url('/wedding'); ?>">WEDDING</a></li>
       <li><a class="header__link <?php if (is_page('events')) echo 'active'; ?>" href="<?php echo site_url('/events'); ?>">EVENTS</a></li>
@@ -62,6 +63,7 @@
 <section class="menu-mobile" data-menu-mobile>
   <nav>
     <ul>
+      <li><a class="header__link <?php if (is_page('home')) echo 'active'; ?>" href="<?php echo site_url('/'); ?>">HOME</a></li>
       <li><a class="header__link <?php if (is_page('welcome')) echo 'active'; ?>" href="<?php echo site_url('/welcome'); ?>">WELCOME</a></li>
       <li><a class="header__link <?php if (is_page('wedding')) echo 'active'; ?>" href="<?php echo site_url('/wedding'); ?>">WEDDING</a></li>
       <li><a class="header__link <?php if (is_page('events')) echo 'active'; ?>" href="<?php echo site_url('/events'); ?>">EVENTS</a></li>
