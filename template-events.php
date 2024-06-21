@@ -21,10 +21,10 @@ get_header();
                   <img src="<?php echo IMG_BASE . 'beach.png'?>" alt="">
                 </div>
                 <div class="col">
-                  <p class="text--16" style="line-height: 7px">WELCOME</p>
-                  <p class="text--30 pb-7">Bienvenida</p>
+                  <p class="text--16">WELCOME <br> BEACH DAY</p>
+                  <p class="text--30 pb-7">Bienvenida <br> Dia de Playa</p>
                   <p class="text--16" style="letter-spacing:normal">July 25th, 2024</p>
-                  <p class="text--16 pb-7" style="letter-spacing:normal">Aguazul Beach Resort, Barú</p>
+                  <p class="text--16 pb-7" style="letter-spacing:normal">Agua Azul Beach Resort, Barú</p>
                   <p class="text--14 pb-11">8:30 a.m. 7:00 p.m.</p>
                   <div class="flex pb-7">
                     <button type="button" class="button button--pink" data-open-modal="modal-4">More Info.</button>
@@ -45,11 +45,11 @@ get_header();
                   <img src="<?php echo IMG_BASE . 'church.png'?>" alt="">
                 </div>
                 <div class="col">
-                  <p class="text--16" style="line-height: 7px">FAREWELL</p>
-                  <p class="text--30 pb-7">Despedida</p>
+                  <p class="text--16">FAREWELL <br> SUNSET SOIREE</p>
+                  <p class="text--30 pb-7">Despedida <br> Velada de atardecer</p>
                   <p class="text--16" style="letter-spacing:normal">July 28th, 2024</p>
                   <p class="text--16 pb-7" style="letter-spacing:normal">Hotel Movich, Rooftop</p>
-                  <p class="text--14 pb-11">3:00 p.m.</p>
+                  <p class="text--14 pb-11">4:00 p.m.</p>
                   <div class="flex">
                     <div class="pb-7">
                       <button type="button" class="button button--pink" data-open-modal="modal-2">Dress Code</button>
