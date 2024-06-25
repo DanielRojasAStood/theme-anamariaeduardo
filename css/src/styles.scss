@@ -1600,6 +1600,27 @@ input[type="radio"]:checked + span:before {
   }
 }
 
-.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
   background: none !important;
+}
+
+.under {
+  width: 100%;
+
+  &-desktop {
+    display: none;
+
+    @media only screen and (min-width: 1024px) {
+      display: block;
+    }
+  }
+
+  &-mobile {
+    @media only screen and (min-width: 1024px) {
+      display: none;
+    }
+  }
 }
