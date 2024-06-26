@@ -49,7 +49,7 @@ get_header();
                   <p class="text--30 pb-7">Despedida <br> Velada de atardecer</p>
                   <p class="text--16" style="letter-spacing:normal">July 28th, 2024</p>
                   <p class="text--16 pb-7" style="letter-spacing:normal">Hotel Movich, Rooftop</p>
-                  <p class="text--14 pb-11">4:00 p.m.</p>
+                  <p class="text--14 pb-11">3:00 p.m.</p>
                   <div class="flex">
                     <div class="pb-7">
                       <button type="button" class="button button--pink" data-open-modal="modal-2">Dress Code</button>

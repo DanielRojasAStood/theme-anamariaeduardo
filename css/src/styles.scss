@@ -739,14 +739,17 @@ body {
       }
 
       h2 {
-        padding-bottom: 20px;
         color: var(--FFF);
         letter-spacing: 2px;
 
         @media only screen and (min-width: 1024px) {
-          padding-bottom: 40px;
           letter-spacing: 11px;
         }
+      }
+
+      p {
+        color: var(--FFF);
+        padding-bottom: 20px;
       }
 
       .countdown-timer {
