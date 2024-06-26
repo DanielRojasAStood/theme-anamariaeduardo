@@ -50,7 +50,7 @@
       <li><a class="header__link <?php if (is_page('wedding-party')) echo 'active'; ?>" href="<?php echo site_url('/wedding-party'); ?>">WEDDING PARTY</a></li>
       <li><a class="header__link <?php if (is_page('cartagena')) echo 'active'; ?>" href="<?php echo site_url('/cartagena'); ?>">CARTAGENA</a></li>
       <li><a class="header__link <?php if (is_page('rsvp')) echo 'active'; ?>" href="<?php echo site_url('/rsvp'); ?>">R.S.V.P</a></li>
-      <li><a class="header__link" href="<?php echo site_url('/rsvp/#faqs'); ?>">FAQS</a></li>
+      <li><a class="header__link <?php if (is_page('faqs')) echo 'active'; ?>" href="<?php echo site_url('/faqs'); ?>">FAQS</a></li>
     </ul>
   </nav>
   <button type="button" class="header__button" data-toggle-menu>
@@ -72,7 +72,7 @@
       <li><a class="header__link <?php if (is_page('wedding-party')) echo 'active'; ?>" href="<?php echo site_url('/wedding-party'); ?>">WEDDING PARTY</a></li>
       <li><a class="header__link <?php if (is_page('cartagena')) echo 'active'; ?>" href="<?php echo site_url('/cartagena'); ?>">CARTAGENA</a></li>
       <li><a class="header__link <?php if (is_page('rsvp')) echo 'active'; ?>" href="<?php echo site_url('/rsvp'); ?>">R.S.V.P</a></li>
-      <li><a class="header__link" href="<?php echo site_url('/rsvp/#faqs'); ?>">FAQS</a></li>
+      <li><a class="header__link <?php if (is_page('faqs')) echo 'active'; ?>" href="<?php echo site_url('/faqs'); ?>">FAQS</a></li>
     </ul>
   </nav>
 </section>

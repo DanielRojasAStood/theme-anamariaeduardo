@@ -12,7 +12,8 @@ get_header();
           <h2 class="text--22" style="line-height: 10px">WELCOME</h2>
           <h2 class="text--56">Bienvenidos</h2>
           <p class="text--11">
-            Family & Friends, <br>
+            <span class="text--16">Family & Friends, </span>
+            <br>
             Welcome to our wedding website! <br>
             We cannot wait to share this very special ocassion and once in a lifetime adventure with you!<br>
             Get your passports and your dancing shoes ready! We are going to Cartagena!<br>
@@ -23,11 +24,12 @@ get_header();
             We cannot wait to show you how Lalo & Ana like to party! We love you dearly and we are deeply grateful for your love, support and complicity. Ours heart are full! Let the countdown begin! See you in Cartagena! <br><br>
           </p>
           <p class="text--11">
-            Besos y Abrazos, Lalo & Ana <br><br><br><br>
+          <span class="text--16">Besos y Abrazos, Lalo & Ana <br><br><br><br></span>
           </p>
 
           <p class="text--11">
-            Familia & Amigos, <br>
+            <span class="text--16">Familia & Amigos, </span>
+            <br>
             Bienvenidos a la página web de nuestra boda!<br>
             Estamos emocionados de poder compartir esta ocasión especial y aventura inolvidable con ustedes!<br>
             Alisten sus maletas y sus zapatos de baile! Nos vamos para Cartagena!<br>
@@ -39,7 +41,7 @@ get_header();
             ¡Que comience la cuenta regresiva! Nos vemos en Cartagena! <br><br>
           </p>
           <p class="text--11">
-            Besos y Abrazos, Lalo & Ana
+            <span class="text--16">Besos y Abrazos, Lalo & Ana</span>
           </p>
         </div>
     </section>

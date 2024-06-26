@@ -62,13 +62,29 @@ export function initSlickCarousels() {
     dots: false,
     infinite: true,
     speed: 500,
-    slidesToShow: 1,
+    slidesToShow: 3,
     autoplay: true,
     autoplaySpeed: 5000,
     navigation: {
       nextEl: ".swiper-button-next-1",
       prevEl: ".swiper-button-prev-1",
     },
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+        }
+      },
+      {
+        breakpoint: 680,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        }
+      },
+    ]
   });
 
   function initSlick() {

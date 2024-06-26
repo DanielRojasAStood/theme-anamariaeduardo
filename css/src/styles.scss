@@ -624,6 +624,18 @@ body {
         margin: 134px auto 100px 24%;
       }
     }
+
+    .text {
+      &--11 {
+        font-size: var(--14);
+        line-height: 20px;
+      }
+
+      &--16 {
+        font-family: var(--font-montserrat);
+        letter-spacing: normal;
+      }
+    }
   }
 
   &Wedding {
@@ -641,14 +653,52 @@ body {
       background-repeat: no-repeat;
     }
 
+    &__img {
+      position: relative;
+      max-width: 915px;
+      margin: 100px auto 0;
+      padding: 40px 0 20px;
+
+      @media only screen and (min-width: 680px) {
+        padding: 40px 20px;
+      }
+
+      .slick {
+        &-slide {
+          div {
+            @media only screen and (min-width: 680px) {
+              padding: 0 10px;
+            }
+          }
+        }
+
+        &-prev {
+          top: 50%;
+          left: 0;
+
+          @media only screen and (min-width: 1024px) {
+            left: -50px;
+          }
+        }
+
+        &-next {
+          top: 50%;
+          right: 0;
+
+          @media only screen and (min-width: 1024px) {
+            right: -50px;
+          }
+        }
+      }
+    }
+
     .box {
       position: relative;
       max-width: 860px;
-      margin: 100px auto 0;
+      margin: 0 auto;
       padding: 40px 20px;
 
       @media only screen and (min-width: 1024px) {
-        margin: 162px auto 0;
         padding: 55px 48px;
       }
 
@@ -785,7 +835,7 @@ body {
       padding: 40px 20px;
 
       @media only screen and (min-width: 1024px) {
-        height: 70vh;
+        height: calc(100vh - 180px);
         margin: 132px auto;
         padding: 55px 48px;
       }
@@ -800,19 +850,21 @@ body {
       }
     }
 
-    &__img {
-      width: 100%;
-      height: 285px;
-      background-color: var(--D9D9D9);
-    }
-
     &__scroll {
       position: relative;
       height: 286px;
       overflow-y: auto;
 
       @media only screen and (min-width: 1024px) {
-        height: 355px;
+        height: 43vh;
+      }
+
+      @media only screen and (max-height: 600px) {
+        height: 34vh;
+      }
+
+      @media only screen and (min-height: 600px) {
+        height: 38vh;
       }
     }
 
@@ -849,6 +901,18 @@ body {
       background: var(--D9D9D9);
       z-index: 1;
     }
+
+    .text {
+      &--11 {
+        font-size: var(--14);
+        line-height: 20px;
+      }
+
+      &--16 {
+        font-family: var(--font-montserrat);
+        letter-spacing: normal;
+      }
+    }
   }
 
   &WeddingParty {
@@ -873,13 +937,13 @@ body {
       padding: 40px 20px;
 
       @media only screen and (min-width: 1024px) {
-        height: 80vh;
+        height: 100vh;
         margin: 132px auto;
         padding: 55px 48px;
       }
 
       @media only screen and (min-height: 600px) {
-        height: 80vh;
+        height: 100vh;
       }
     }
 
@@ -948,11 +1012,12 @@ body {
           overflow: auto;
 
           @media only screen and (min-width: 1024px) {
+            height: 50vh;
             padding: 0 440px 16px 0;
           }
 
           @media only screen and (min-height: 600px) {
-            height: 40vh;
+            height: 60vh;
           }
         }
       }
@@ -1005,6 +1070,18 @@ body {
           width: 122px;
           height: 122px;
         }
+      }
+    }
+
+    .text {
+      &--11 {
+        font-size: var(--14);
+        line-height: 20px;
+      }
+
+      &--16 {
+        font-family: var(--font-montserrat);
+        letter-spacing: normal;
       }
     }
   }
@@ -1103,6 +1180,18 @@ body {
         padding: 0 25px;
       }
     }
+
+    .text {
+      &--11 {
+        font-size: var(--14);
+        line-height: 20px;
+      }
+
+      &--16 {
+        font-family: var(--font-montserrat);
+        letter-spacing: normal;
+      }
+    }
   }
 
   &RSVP {
@@ -1166,10 +1255,8 @@ body {
     &__faqs {
       max-width: 620px;
       margin: 0 auto;
-      padding: 70px 0 0;
 
       @media only screen and (min-width: 1024px) {
-        padding: 130px 0 0;
       }
     }
   }
@@ -1497,16 +1584,17 @@ input[type="radio"]:checked + span:before {
     background-color: transparent;
     cursor: pointer;
 
-    &.text--14 {
-      font-size: var(--11);
-      line-height: 15px;
+    &.text--16 {
+      font-size: var(--14);
+      line-height: 20px;
+      letter-spacing: normal;
     }
 
     @media only screen and (min-width: 1024px) {
       padding: 20px 60px 20px 0;
 
-      &.text--14 {
-        font-size: var(--14);
+      &.text--16 {
+        font-size: var(--16);
       }
     }
 
@@ -1536,10 +1624,10 @@ input[type="radio"]:checked + span:before {
       font-family: var(--font-montserrat);
       text-align: left;
       color: var(--000);
-      font-size: 11px;
+      font-size: var(--14);
       font-style: normal;
       font-weight: 400;
-      line-height: 14px;
+      line-height: 20px;
       letter-spacing: 0.22px;
       padding-right: 70px;
     }

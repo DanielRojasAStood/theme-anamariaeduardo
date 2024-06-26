@@ -3,11 +3,40 @@
 Template Name: Wedding
 */
 get_header(); 
+
+$gallery = [
+  ["image" => "historia de amor 1.webp"], 
+  ["image" => "historia de amor 2.webp"], 
+  ["image" => "historia de amor 3.webp"], 
+  ["image" => "historia de amor 4.webp"], 
+  ["image" => "historia de amor 5.webp"], 
+  ["image" => "historia de amor 6.webp"], 
+  ["image" => "historia de amor 7.webp"], 
+  ["image" => "historia de amor 8.webp"], 
+  ["image" => "historia de amor 9.webp"], 
+  ["image" => "historia de amor 10.webp"], 
+  ["image" => "historia de amor 11.webp"], 
+  ["image" => "historia de amor 12.webp"], 
+  ["image" => "historia de amor 13.webp"], 
+  ["image" => "historia de amor 14.webp"], 
+  ["image" => "historia de amor 15.webp"], 
+  ["image" => "historia de amor 16.webp"], 
+  ["image" => "historia de amor 17.webp"],
+]
 ?>
 
   <main>
     <section class="sectionWedding">
         <div class="sectionWedding__bckg-fixed"></div>
+        <div class="sectionWedding__img">
+          <div class="slickGallery">
+            <?php 
+              foreach ($gallery as $img) {
+                echo "<img src='" . IMG_BASE . "history/" . $img['image'] . "' alt=''>";
+                }
+            ?>
+          </div>
+        </div>
         <div class="box text-center">
           <h2 class="text--22" style="height: 15px">WEDDING</h2>
           <h2 class="text--56 pb-7">Nuestra Boda</h2>
