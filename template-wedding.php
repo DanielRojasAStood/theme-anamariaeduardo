@@ -59,7 +59,10 @@ $gallery = [
               <p class="text--16 pb-7" style="letter-spacing:normal">Cartagena de Indias</p>
               <a href="https://maps.app.goo.gl/jTUNiPXTMiGJz85m8" target="_blank" class="button button--pink">Map Location</a>
               <p class="text--14 pt-7 pb-7">5:00 p.m.</p>
-              <a href="#" href="#" class="button button--pink">Registry</a>
+              <div class="grid grid--2" style="row-gap: 10px;">
+                <a href="https://www.myregistry.com/giftlist/laloandana" target="_blank" class="button button--pink">Registry</a>
+                <button type="button" class="button button--pink" data-open-modal="modal-5">More info</button>
+              </div>
             </div>
 
           </div>

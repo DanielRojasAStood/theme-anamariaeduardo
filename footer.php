@@ -76,6 +76,25 @@
       </div>
     </div>
   </section>
+
+  <section class="modal" style="display: none" data-modal="modal-5">
+    <div class="modal__wrapper">
+      <div class="modal__body">
+        <button type="button" data-close-modal>
+        <?php 
+            $icon_name = 'icon-close';
+            get_template_part('template-parts/content', 'icono');
+            display_icon($icon_name); 
+        ?>
+        </button>
+        <img
+          src="<?php echo IMG_BASE . 'more-info-gift.webp' ?>"
+          alt=""
+          id=""
+        />
+      </div>
+    </div>
+  </section>
 </footer>
 
 <!-- wordpress footer includes -->
