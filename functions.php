@@ -30,3 +30,5 @@ function my_wpcf7_form_elements( $html ) {
     return preg_replace('/<br\s*\/?>/i', '', $html);
 }
 add_filter('wpcf7_form_elements', 'my_wpcf7_form_elements');
+
+add_filter('wpcf7_autop_or_not', '__return_false');
