@@ -34,6 +34,21 @@ get_header();
           <?php 
             $icons = [
               [
+                "name" => "BRUNCH & DESSERTS",
+                "icon" => "icon-3",
+                "link" => "/places#Brunch Desserts"
+              ],
+              [
+                "name" => "PLACES TO VISIT",
+                "icon" => "icon-4",
+                "link" => "/places#Bars"
+              ],
+              [
+                "name" => "BOUTIQUES",
+                "icon" => "icon-5",
+                "link" => "/places#boutiques"
+              ],
+              [
                 "name" => "HOTELS",
                 "icon" => "icon-1",
                 "link" => "/places#hotels"
@@ -44,25 +59,10 @@ get_header();
                 "link" => "/places#Restaurants"
               ],
               [
-                "name" => "BRUNCH & DESSERTS",
-                "icon" => "icon-3",
-                "link" => "/places#Brunch Desserts"
-              ],
-              [
-                "name" => "BARS",
-                "icon" => "icon-4",
-                "link" => "/places#Bars"
-              ],
-              [
-                "name" => "BOUTIQUES",
-                "icon" => "icon-5",
-                "link" => "/places#boutiques"
-              ],
-              [
                 "name" => "BEAUTY SALONS",
                 "icon" => "icon-6",
                 "link" => "/places#Beauty Salons"
-              ],
+              ],              
             ]
           ?>
 

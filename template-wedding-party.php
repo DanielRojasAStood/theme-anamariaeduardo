@@ -99,14 +99,6 @@ $tabs = [
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/jess.webp"
             ],
             [
-                "name" => "Josanta",
-                "rol-en" => "Bridesmaid",
-                "rol-es" => "Dama",
-                "content-en" => "Josanta holds a very special place in the bride's heart, and her grace, intelligence, and tenacity are qualities that Ana loves about her. Her ability to juggle the roles of entrepreneur, mommy, wifey, and incredible friend is truly inspiring. Ana hopes to be able to balance life as gracefully as she does someday soon. Their friendship blossomed through the groom's close friend, Oscar, and since then, they have shared many special memories. Ana had the honor of being one of Josanta's bridesmaids four years ago, and it is a joy to now have her standing by her side on her special day. From participating in her wedding, to welcoming baby Ezra, to sharing laughs over Danity Kane choreography, to sharing tears while wedding dress shopping, their bond has only grown stronger. The journey now takes them to Cartagena for Ana & Lalo's wedding and the bride cannot wait to see what other adventures life has in store for them!",
-                "content-es" => "Josanta tiene un lugar muy especial en el corazón de la novia, y su gracia, inteligencia y tenacidad son cualidades que Ana adora de ella. Su habilidad para equilibrar los roles de emprendedora, mamá, esposa, e increíble amiga es verdaderamente inspirador. Ana espera poder equilibrar la vida con la misma gracia de ella algún día. Su amistad floreció a través del amigo cercano del novio, Oscar, y desde entonces, han compartido muchos recuerdos especiales. Ana tuvo el honor de ser una de las damas de Josanta hace cuatro años, y es una alegría ahora tenerla a su lado en su día especial. Desde participar en su boda, hasta dar la bienvenida al bebé Ezra, hasta compartir risas sobre la coreografía de Danity Kane, hasta compartir lágrimas en pruebas de vestido de novia, su vínculo solo ha crecido más fuerte. El viaje ahora las lleva a Cartagena para la boda de Ana y Lalo, y la novia esta emocionada por ver qué otras aventuras les depara la vida.",
-                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/josanta.webp"
-            ],
-            [
                 "name" => "Joana",
                 "rol-en" => "Bridesmaid",
                 "rol-es" => "Dama",
@@ -122,19 +114,27 @@ $tabs = [
                 "content-es" => "Brittney es un rayo de sol y una de las amigas más cercanas de la novia. Su naturaleza amorosa y encanto son contagiosos y Ana se siente bendecida de tenerla en su vida. Las chicas se conocieron a través de sus encantadores caballeros y han seguido construyendo una amistad a lo largo de los años. Fue durante la pandemia que las chicas se acercaron más y su vínculo se fortaleció. Irónicamente, cuando la mayoría de las personas se estaban distanciando, estas dos encontraron formas de conectarse a través de Zoom, almuerzos con mascarilla e innumerables conversaciones de corazón a corazón. Brittney ha apoyado a la novia de maneras que han dejado huellas en su corazón y que la han convertido en una hermana de por vida. La novia también agradece a Brittney por conectarla a ella y al novio con algunas de las personas más increíbles que conocen hoy dia. El impacto de Brittney y Steven en las vidas de Lalo y Ana ha sido profundo, y están inmensamente agradecidos por su amor y amistad. La novia y el novio están felices de que Brittney y Steven hayan regresado a California!.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/brittney.webp"
             ],
+            [
+                "name" => "Josanta",
+                "rol-en" => "Bridesmaid",
+                "rol-es" => "Dama",
+                "content-en" => "Josanta holds a very special place in the bride's heart, and her grace, intelligence, and tenacity are qualities that Ana loves about her. Her ability to juggle the roles of entrepreneur, mommy, wifey, and incredible friend is truly inspiring. Ana hopes to be able to balance life as gracefully as she does someday soon. Their friendship blossomed through the groom's close friend, Oscar, and since then, they have shared many special memories. Ana had the honor of being one of Josanta's bridesmaids four years ago, and it is a joy to now have her standing by her side on her special day. From participating in her wedding, to welcoming baby Ezra, to sharing laughs over Danity Kane choreography, to sharing tears while wedding dress shopping, their bond has only grown stronger. The journey now takes them to Cartagena for Ana & Lalo's wedding and the bride cannot wait to see what other adventures life has in store for them!",
+                "content-es" => "Josanta tiene un lugar muy especial en el corazón de la novia, y su gracia, inteligencia y tenacidad son cualidades que Ana adora de ella. Su habilidad para equilibrar los roles de emprendedora, mamá, esposa, e increíble amiga es verdaderamente inspirador. Ana espera poder equilibrar la vida con la misma gracia de ella algún día. Su amistad floreció a través del amigo cercano del novio, Oscar, y desde entonces, han compartido muchos recuerdos especiales. Ana tuvo el honor de ser una de las damas de Josanta hace cuatro años, y es una alegría ahora tenerla a su lado en su día especial. Desde participar en su boda, hasta dar la bienvenida al bebé Ezra, hasta compartir risas sobre la coreografía de Danity Kane, hasta compartir lágrimas en pruebas de vestido de novia, su vínculo solo ha crecido más fuerte. El viaje ahora las lleva a Cartagena para la boda de Ana y Lalo, y la novia esta emocionada por ver qué otras aventuras les depara la vida.",
+                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/josanta.webp"
+            ],
+            [
+                "name" => "Lina",
+                "rol-en" => "Bridesmaid",
+                "rol-es" => "Dama",
+                "content-en" => "Lina is the bride's dear cousin but she has been more like a sister their entire lives. The girls have known each other since they were in diapers and they have always shared a special bond. Her and her siblings Yuly and Gonzalo were the siblings life gifted her. The bride fondly remembers how inseparable they were as little girls and how they would sneak away to buy snacks and hide to eat them so they wouldn't have to share with the other kids. When the bride moved to the U.S. at the tender age of 9, one of her biggest sorrows was not being able to visit Lina and her siblings anymore. She still has all the letters 10-year-old Lina sent her, telling her about her life and expressing how much she missed her. Today, Lina is a successful business owner and a fantastic mother of two. She grew up into the amazing woman Ana always knew she would be. The bride knows that Lina will always be there for her till the end of time, no matter the distance and no matter the circumstances. She could not be happier to have her standing by her side on this special day!",
+                "content-es" => "Lina es la querida prima de la novia, pero toda la vida ha sido más como una hermana. Las chicas se conocen desde que estaban en pañales y siempre han compartido un vínculo especial. Ella y sus hermanos Yuly y Gonzalo, fueron los tres hermanitos que la vida le regalo. La novia recuerda con cariño lo inseparables que eran de niñas y cómo se escapaban para comprar galguerias que se comían a escondidas para no compartir con los otros niños. Cuando la novia se mudó a Estados Unidos de 9 añitos, una de sus mayores tristezas fue no poder visitar más a Lina y a sus hermanos. Todavía conserva todas las cartas que la pequeña Lina le enviaba, contándole sobre su vida y expresándole cuánto la extrañaba. Hoy, Lina es una exitosa empresaria y una fantástica madre de dos hijos. Se convirtió en la mujer maravillosa que Ana siempre supo que sería. La novia sabe que Lina siempre estará con ella sin importar la distancia ni las circunstancias. ¡ La novia no podría estar más feliz de tenerla a su lado en este día tan especial!",
+                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/lina.webp"
+            ],
         ]
     ],
     [
         "title" => "Flower Girls - Ring Bearers / Pajecitos",
         "members" => [
-            [
-                "name" => "Mattheo",
-                "rol-en" => "Ring Bearer",
-                "rol-es" => "Pajecito Portador de los Anillos",
-                "content-en" => "Affectionately known as #4, Mattheo is Lalo’s younger brother whose love and affection are boundless. He is convinced that he'll outgrow his brothers one day, Mattheo brings laughter and lightness to every family gathering. He’s thrilled to see Ana officially join the family and looks up to Lalo and Ana as his godparents, who will guide him through life’s adventures.",
-                "content-es" => "Conocido cariñosamente como #4, Mattheo es el hermano menor de Lalo cuyo amor y afecto no tienen límites. Está convencido de que algún día superará en altura a sus hermanos. Mattheo trae risas y alegría a cada reunión familiar. Está emocionado de ver a Ana unirse oficialmente a la familia y admira mucho a Lalo y a Ana, viéndolos como sus padrinos que lo guíaran a través de las aventuras de la vida.",
-                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/mattheo.webp"
-            ],
             [
                 "name" => "Mai Rosa",
                 "rol-en" => "Flower Girl ",
@@ -142,6 +142,22 @@ $tabs = [
                 "content-en" => "The newest and spiciest addition to Lalo's family, Mai Rosa is as spirited as she is adorable. As one of the flower girls, her presence is a delightful embodiment of the family’s joy and unity. Her cheeky grin and boundless energy make her the center of attention and a beloved member of the family.We hope she doesn't take off running elsewhere with her tiny ring security partner Emilio! ",
                 "content-es" => "La más nueva y picante adición a la familia de Lalo, Mai Rosa es tan enérgica como adorable. Como una de las niñas de las flores, su presencia es una encantadora encarnación de la alegría y la unidad de la familia. Su sonrisa traviesa y energía sin límites la convierten en el centro de atención y en un miembro muy querido de la familia. Esperamos que no salga corriendo por otro lado con su compañero pajecito Emilio! ",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/mai-rosa.webp"
+            ],
+            [
+                "name" => "Emilio",
+                "rol-en" => "Ring Security",
+                "rol-es" => "Pajecito",
+                "content-en" => "Our precious Emilio is the tiniest member of the bride and groom's ring security team. He is two years old and he is not only adorable, but also incredibly smart and very sweet. This will be his wedding debut and we cannot wait to see him help lead Ana & Lalo down the aisle! We hope he doesn't take off running elsewhere with his tiny flower girl partner Mai Rosa! ",
+                "content-es" => "Nuestro precioso Emilio es el miembro más pequeño del equipo de seguridad de los anillos de la novia y el novio. Tiene dos años y no solo es adorable, sino también increíblemente inteligente y muy dulce. Este será su debut en una boda y tenemos mucha emocion de verlo ayudar a guiar a los novios hacia el altar! Esperamos no salga corriendo por otro lado con su compañera pajecita Mai Rosa! ",
+                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/emilio.webp"
+            ],
+            [
+                "name" => "Mattheo",
+                "rol-en" => "Ring Bearer",
+                "rol-es" => "Pajecito Portador de los Anillos",
+                "content-en" => "Affectionately known as #4, Mattheo is Lalo’s younger brother whose love and affection are boundless. He is convinced that he'll outgrow his brothers one day, Mattheo brings laughter and lightness to every family gathering. He’s thrilled to see Ana officially join the family and looks up to Lalo and Ana as his godparents, who will guide him through life’s adventures.",
+                "content-es" => "Conocido cariñosamente como #4, Mattheo es el hermano menor de Lalo cuyo amor y afecto no tienen límites. Está convencido de que algún día superará en altura a sus hermanos. Mattheo trae risas y alegría a cada reunión familiar. Está emocionado de ver a Ana unirse oficialmente a la familia y admira mucho a Lalo y a Ana, viéndolos como sus padrinos que lo guíaran a través de las aventuras de la vida.",
+                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/mattheo.webp"
             ],
             [
                 "name" => "Mila",
@@ -160,6 +176,14 @@ $tabs = [
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/erika.webp"
             ],
             [
+                "name" => "Vincent",
+                "rol-en" => "Ring Security",
+                "rol-es" => "Pajecito",
+                "content-en" => "Vincent, the son of the groom's dear friend, will be another wonderful member of the ring security team. He is a sweet and intelligent boy, whose affection has made the bride and groom feel incredibly grateful to be part of his life. They eagerly anticipate seeing his charming smile as he helps lead them down the aisle.",
+                "content-es" => "Vincent, el hijo del querido amigo del novio, será otro maravilloso miembro del equipo de seguridad de los anillos. Es un niño dulce e inteligente, cuyo afecto ha hecho que los novios se sientan increíblemente agradecidos de ser parte de su vida. Esperan con entusiasmo ver su encantadora sonrisa mientras ayuda a guiar a los novios hacia el altar!",
+                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/vincent-pendiente.webp"
+            ],
+            [
                 "name" => "Daniela",
                 "rol-en" => "Flower girl",
                 "rol-es" => "Pajecita",
@@ -175,51 +199,27 @@ $tabs = [
                 "content-es" => "Nicolás es el hermano menor de Mila y el oficial de seguridad de los anillos de la novia y el novio. El es un niño divertido, inteligente y muy amoroso.  Es un honor para la novia tenerlo en el cortejo nupcial, ya que ha compartido un vínculo especial con su mamá toda su vida. Dato curioso: ¡Nicolás es el pequeño príncipe del clan familiar Sánchez!",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/nikolas.webp"
             ],
-            [
-                "name" => "Emilio",
-                "rol-en" => "Ring Security",
-                "rol-es" => "Pajecito",
-                "content-en" => "Our precious Emilio is the tiniest member of the bride and groom's ring security team. He is two years old and he is not only adorable, but also incredibly smart and very sweet. This will be his wedding debut and we cannot wait to see him help lead Ana & Lalo down the aisle! We hope he doesn't take off running elsewhere with his tiny flower girl partner Mai Rosa! ",
-                "content-es" => "Nuestro precioso Emilio es el miembro más pequeño del equipo de seguridad de los anillos de la novia y el novio. Tiene dos años y no solo es adorable, sino también increíblemente inteligente y muy dulce. Este será su debut en una boda y tenemos mucha emocion de verlo ayudar a guiar a los novios hacia el altar! Esperamos no salga corriendo por otro lado con su compañera pajecita Mai Rosa! ",
-                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/emilio.webp"
-            ],
+            
         ]
     ],
     [
         "title" => "BestMan & Made of Honor - Padrino & Madrina",
         "members" => [
             [
-                "name" => "Lina",
-                "rol-en" => "Bridesmaid",
-                "rol-es" => "Dama",
-                "content-en" => "Lina is the bride's dear cousin but she has been more like a sister their entire lives. The girls have known each other since they were in diapers and they have always shared a special bond. Her and her siblings Yuly and Gonzalo were the siblings life gifted her. The bride fondly remembers how inseparable they were as little girls and how they would sneak away to buy snacks and hide to eat them so they wouldn't have to share with the other kids. When the bride moved to the U.S. at the tender age of 9, one of her biggest sorrows was not being able to visit Lina and her siblings anymore. She still has all the letters 10-year-old Lina sent her, telling her about her life and expressing how much she missed her. Today, Lina is a successful business owner and a fantastic mother of two. She grew up into the amazing woman Ana always knew she would be. The bride knows that Lina will always be there for her till the end of time, no matter the distance and no matter the circumstances. She could not be happier to have her standing by her side on this special day!",
-                "content-es" => "Lina es la querida prima de la novia, pero toda la vida ha sido más como una hermana. Las chicas se conocen desde que estaban en pañales y siempre han compartido un vínculo especial. Ella y sus hermanos Yuly y Gonzalo, fueron los tres hermanitos que la vida le regalo. La novia recuerda con cariño lo inseparables que eran de niñas y cómo se escapaban para comprar galguerias que se comían a escondidas para no compartir con los otros niños. Cuando la novia se mudó a Estados Unidos de 9 añitos, una de sus mayores tristezas fue no poder visitar más a Lina y a sus hermanos. Todavía conserva todas las cartas que la pequeña Lina le enviaba, contándole sobre su vida y expresándole cuánto la extrañaba. Hoy, Lina es una exitosa empresaria y una fantástica madre de dos hijos. Se convirtió en la mujer maravillosa que Ana siempre supo que sería. La novia sabe que Lina siempre estará con ella sin importar la distancia ni las circunstancias. ¡ La novia no podría estar más feliz de tenerla a su lado en este día tan especial!",
-                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/lina.webp"
-            ], 
-            [
                 "name" => "Gonzalo",
-                "rol-en" => "Marriage Godfather",
-                "rol-es" => "Padrino de Matrimonio",
-                "content-en" => "Gonzalo has been like a brother to the bride and he has always been a loving and constant presence in her life. Over the years, they have shared countless memories, unforgettable laughs, and significant moments. The bride fondly remembers how they played and climbed trees as children. Ana would insist that all the tree trunks were 'clinically proven,' which still makes them laugh today and is an inside joke only they understand. Gonzalo's unwavering support has been a source of joy and strength for the bride. She knows his great affection will now extend to the groom and is confident that his big heart, life experience, despite being so young, and absolute dedication to his family, are the perfect qualities the couple dreamed of in a godfather. His presence at the wedding as the godfather is not only an honor for the couple but a testament to the deep bond and affection they share. The couple looks forward to creating many more memories with him, his lovely wife and the entire family!",
-                "content-es" => "Gonzalo ha sido como un hermano para la novia y siempre ha sido una presencia amorosa y constante en su vida. A lo largo de los años, han compartido innumerables recuerdos, risas inolvidables, y momentos importantes! La novia recuerda con mucho cariño como jugaban y trepaban arboles de niños. Ana aseguraba que todos los troncos de los arboles estaban 'clinicamente comprobados' Esto les causa mucha risa hoy dia y es algo que solo ellos entienden. El cariño y apoyo inquebrantable de Gonzalo han sido una fuente de alegría y fortaleza para la novia atraves de los años. Ella sabe que ese gran cariño ahora sera extendido al novio y esta segura que su gran corazon, experiencia de vida, aun siendo tan joven, y su entrega absoluta a su familia, son las cualidades perfectas que los novios soñaban tener en un padrino. Su presencia en la boda como el padrino no solo es un honor para los novios, sino un testimonio del profundo vínculo y cariño que comparten. Los novios esperan poder crear muchas memorias mas con el, su bella esposa y toda la familia!",
+                "rol-en" => "Bestman",
+                "rol-es" => "Padrino",
+                "content-en" => "Victoria is the bride's mother and her heart is filled with joy as she watches her precious daughter's love story unfold. She is very happy to be gaining a son that she will love as her own! She can be credited for Ana's compassionate, warm and loving nature. Victoria enjoys playing board games, dancing, traveling, and spending time with loved ones. Hugs, heart to heart conversations, laughter, and family time are what make her heart glow! She has been the most loving and amazing mother in the universe and Ana hopes to be half as amazing as she is someday. Victoria is a true example of beauty, grace, integrity and the very best of human kind. Ana's heart is overflowing with love and gratitude because God gave her the most precious mother in the world. It is an honor to be her daughter and Ana would choose her as her mother in every universe and every lifetime. Sharing this beautiful experience together as mother and daughter is what dreams are made of.",
+                "content-es" => "Victoria es la madre de la novia y su corazón se llena de alegría al ver cómo se desarrolla la historia de amor de su preciosa hija. ¡Está muy feliz de ganar un hijo al que amará como propio! Se le puede atribuir la naturaleza compasiva, cálida y amorosa de Ana. Victoria disfruta los juegos de mesa, bailar, viajar y pasar tiempo con sus seres queridos. ¡Abrazos, conversaciones de corazón a corazón, risas y tiempo en familia son cosas que hacen que su corazón brille! Ha sido la madre más amorosa y maravillosa del universo y Ana espera algún día ser tan increíble como ella. Victoria es un verdadero ejemplo de belleza, gracia, integridad y lo mejor de la humanidad. El corazón de Ana está rebosante de amor y gratitud porque Dios le dio la madre más preciosa del mundo. Es un honor ser su hija y Ana la elegiría como su madre en cada universo y en cada vida. Compartir esta hermosa experiencia juntas como madre e hija es de lo que están hechos los sueños.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/padrinos/gonzalito-pendiente.webp"
             ], 
             [
                 "name" => "Ilse",
                 "rol-en" => "Marriage Godmother",
-                "rol-es" => "Madrina de Matrimonio",
+                "rol-es" => "Madrina de Matrimonio ",
                 "content-en" => "The couple is very happy to have Ilse, Gonzalo's loving wife, as their wedding godmother. The bride can't believe it has been nearly two decades since her 'co-madre' entered her life. Ana has the privilege of being godmother to Ilse and Gonzalo's middle daughter. She credits Gonzalo for choosing such a wonderful woman as his life partner, as she is beautiful inside and out. Her affection, constant support, and thoughtfulness have made her a cherished member of the family. The couple is grateful for her presence and the special role she will play in their lives. Ilse and Gonzalo have a beautiful marriage, and Ana and Lalo are sure they will learn a lot from their experience as a couple and as a family. Having her support and spiritual guidance not only at the wedding but also in their future is and will be a true blessing for the couple.",
-                "content-es" => "Los novios estan muy felices de tener a Ilse, la amorosa esposa de Gonzalo, como la madrina de boda. La novia no puede creer que ya pasaron dos decadas desde que su comadre entro a su vida. Ana tiene el privilegio de ser la madrina de la hija del medio de Ilse y Gonzalo. Le da mucho credito a Gonzalo por haber elegido a una gran mujer como compañera de vida porque es hermosa por dentro y por fuera. Su cariño, apoyo constante, y detalles con todos la han convertido en un miembro muy apreciado de la familia. Los novios estan agradecidos por su presencia y el papel especial que desempeñara en sus vidas. Ilse y Gonzalo tienen un matrimonio muy lindo y Ana y Lalo estan seguros que aprenderan mucho de su experiencia como pareja y como familia. Tener su apoyo y guia espiritual no solo en la boda pero en su futuro es y sera una verdadera bendición para los novios.",
+                "content-es" => "Los novios estan muy felices de tener a Ilse, la amorosa esposa de Gonzalo, como la madrina de boda. La novia no puede creer que ya pasaron dos decadas desde que su comadre entro a su vida. Ana tiene el privilegio de ser la madrina de la hija del medio de Ilse y Gonzalo. Le da mucho credito a Gonzalo por haber elegido a una gran mujer como compañera de vida porque es hermosa por dentro y por fuera. Su cariño, apoyo constante, y detalles con todos la han convertido en un miembro muy apreciado de la familia. Los novios estan agradecidos por su presencia y el papel especial que desempeñara en sus vidas. Ilse y Gonzalo tienen un matrimonio muy lindo y Ana y Lalo estan seguros que aprenderan mucho de su experiencia como pareja y como familia. Tener su apoyo y guia espiritual no solo en la boda pero en su futuro es y sera una verdadera bendición para los novios. ",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/ilse-pendiente.webp"
-            ], 
-            [
-                "name" => "Vincent",
-                "rol-en" => "Ring Security",
-                "rol-es" => "Pajecito",
-                "content-en" => "Vincent, the son of the groom's dear friend, will be another wonderful member of the ring security team. He is a sweet and intelligent boy, whose affection has made the bride and groom feel incredibly grateful to be part of his life. They eagerly anticipate seeing his charming smile as he helps lead them down the aisle.",
-                "content-es" => "Vincent, el hijo del querido amigo del novio, será otro maravilloso miembro del equipo de seguridad de los anillos. Es un niño dulce e inteligente, cuyo afecto ha hecho que los novios se sientan increíblemente agradecidos de ser parte de su vida. Esperan con entusiasmo ver su encantadora sonrisa mientras ayuda a guiar a los novios hacia el altar!",
-                "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/vincent-pendiente.webp"
-
             ]
         ],
     ],

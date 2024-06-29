@@ -621,7 +621,7 @@ $places = [
         
                             <?php if ($place['link']) : ?>
                                 <a class="button button--small" href="<?php echo $place['link']; ?>" target="_blank">
-                                VER
+                                VIEW
                                 </a>
                             <?php endif?>
                             </div>
