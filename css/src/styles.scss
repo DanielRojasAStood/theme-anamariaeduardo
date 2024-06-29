@@ -615,6 +615,10 @@ body {
     background-image: url(../../img/bckg-1.webp);
     background-position: center;
     background-size: cover;
+
+    &__button {
+      position: relative;
+    }
   }
 
   &Welcome {
@@ -650,10 +654,6 @@ body {
 
       @media only screen and (min-width: 1440px) {
         margin: 134px auto 0 24%;
-      }
-
-      @media only screen and (min-height: 600px) {
-        margin: 134px auto 100px 24%;
       }
     }
 
