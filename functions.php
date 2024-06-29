@@ -32,3 +32,15 @@ function my_wpcf7_form_elements( $html ) {
 add_filter('wpcf7_form_elements', 'my_wpcf7_form_elements');
 
 add_filter('wpcf7_autop_or_not', '__return_false');
+
+function my_theme_setup() {
+    // Agregar soporte para el logo personalizado
+    add_theme_support('custom-logo', array(
+        'height'      => 48,  // Ajusta la altura del logo según sea necesario
+        'width'       => 426,  // Ajusta el ancho del logo según sea necesario
+        'flex-height' => true,
+        'flex-width'  => true,
+    ));
+}
+add_action('after_setup_theme', 'my_theme_setup');
+

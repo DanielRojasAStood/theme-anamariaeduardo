@@ -416,7 +416,7 @@ $places = [
                 "image" => IMG_BASE . 'slick-images/slick-image-48.png',
             ],
             [
-                "name" => "ANDRÉS CARNE /n DE RES",
+                "name" => "ANDRÉS CARNE <br> DE RES",
                 "address" => "Cra. 11 # 39 - 21",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "315 3559096",
@@ -440,7 +440,7 @@ $places = [
                 "image" => IMG_BASE . 'slick-images/slick-image-51.png',
             ],
             [
-                "name" => "LA CASA DE /n SOCORRO",
+                "name" => "LA CASA DE <br> SOCORRO",
                 "address" => "Frente al C.C. Getsemaní",
                 "city" => "Getsemaní, Cartagena",
                 "phone" => "+57 315 7186666",
@@ -616,7 +616,7 @@ $places = [
                             <?php endif?>
         
                             <?php if ($place['phone']) : ?>
-                            <p class="text--20 number"><?php echo $place['phone']; ?></p>
+                            <p class="text--20 number" style="color: #4d4d4d"><?php echo $place['phone']; ?></p>
                             <?php endif?>
         
                             <?php if ($place['link']) : ?>

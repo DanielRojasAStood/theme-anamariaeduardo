@@ -21,7 +21,7 @@ $tabs = [
                 "rol-en" => "Father of the Bride",
                 "rol-es" => "Padre de la Novia",
                 "content-en" => "Jaime is the brides father and he could not be happier to see the joy on his little girls face, as she embarks of this new journey with her soon to be husband. He is looking forward to gaining the son he never had and creating new memories together! He can be credited for Ana's tenacity and her love for helping others. Jaime enjoys teaching, watching sports and traveling. Talking about sports, history, or his family is the way to his heart! He has been the most loving and devoted father any daughter could ever ask for. Ana is deeply grateful for his unconditional love and support. She feels blessed to be able to call him dad, to be able to share life with him, and to be able to make special memories together. It is an honor to be his daughter and she would choose him as her father in any lifetime. It is a dream come true that he will walk her down the aisle in front of all their loved ones with God as their witness. This will be the sweetest walk of their lives. ",
-                "content-es" => "Jaime es el padre de la novia y no podría estar más feliz de ver la alegría en el rostro de su princesa, mientras comienza esta nueva etapa con su futuro esposo. ¡Está feliz de haberse ganado al hijo que nunca tuvo y crear nuevos recuerdos juntos! Se le puede atribuir la tenacidad de Ana y su amor por ayudar a los demás. Jaime disfruta enseñar, ver deportes y viajar. ¡Hablar sobre deportes, historia o su familia es la manera de llegar a su corazón! Ha sido el padre más devoto y amoroso que cualquier hija podría desear. Ana está profundamente agradecida por su amor y apoyo incondicional. Se siente bendecida de poder llamarlo papá, de poder compartir la vida con él y de poder crear recuerdos especiales juntos. Es un honor ser su hija y ella lo elegiría como su padre en cualquier vida. Es un sueño hecho realidad que él la acompañará caminando hacia el altar frente a todos sus seres queridos con Dios como testigo. Esta será la caminata más dulce de sus vidas.",
+                "content-es" => "Jaime es el padre de la novia y no podría estar más feliz de ver la alegría en el rostro de su princesa, mientras comienza esta nueva etapa con su futuro esposo. ¡Está feliz de haberse ganado al hijo que nunca tuvo y crear nuevos recuerdos juntos! Se le puede atribuir la tenacidad de Ana y su amor por ayudar a los demás. Jaime disfruta enseñar, ver deportes y viajar. ¡Hablar sobre deportes, historia o su familia es la manera de llegar a su corazón! Ha sido el padre más devoto y amoroso que cualquier hija podría desear. Ana está profundamente agradecida por su amor y apoyo incondicional. Se siente bendecida de poder llamarlo papá, de poder compartir la vida con él y de poder hacer recuerdos especiales juntos. Es un honor ser su hija y ella lo elegiría como su padre en cualquier vida. Es un sueño hecho realidad que él la acompañará caminando hacia el altar frente a todos sus seres queridos con Dios como testigo. Esta será la caminata más dulce de sus vidas.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/padres/jaime-new.webp"
             ],
             [
@@ -48,7 +48,7 @@ $tabs = [
             [
                 "name" => "James",
                 "rol-en" => "Best Man",
-                "rol-es" => "Mejor Hombre??",
+                "rol-es" => "Caballero de Honor",
                 "content-en" => "James entered Lalo’s life in 2019 and quickly became an irreplaceable friend. Their friendship, built on mutual support and a healthy dose of obsessing over random things, has only grown stronger. Their bromance is a source of strength and joy for both and Lalo is positive he's preparing a best man speech that’s part roast, part toast—but all heart. James feels honored to stand by Lalo’s side on his wedding day, looking forward to sharing more laughs and making even more memories together.",
                 "content-es" => "James entró a la vida de Lalo en el 2019 y rápidamente se convirtió en un amigo indispensable. Su amistad, que fue construida sobre el apoyo mutuo y una saludable obsesión por cosas aleatorias, solo ha crecido más fuerte. Su bromance es una fuente de fuerza y alegría para ambos, y Lalo está seguro de que James está preparando un discurso de mejor hombre que será parte burla, parte brindis, pero todo corazón. James se siente honrado de estar al lado de Lalo en el día de su boda, y espera poder compartir más risas y crear aún más recuerdos juntos.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/padrinos/james.webp"
@@ -147,7 +147,7 @@ $tabs = [
                 "name" => "Emilio",
                 "rol-en" => "Ring Security",
                 "rol-es" => "Pajecito",
-                "content-en" => "Our precious Emilio is the tiniest member of the bride and groom's ring security team. He is two years old and he is not only adorable, but also incredibly smart and very sweet. This will be his wedding debut and we cannot wait to see him help lead Ana & Lalo down the aisle! We hope he doesn't take off running elsewhere with his tiny flower girl partner Mai Rosa! ",
+                "content-en" => "Our precious Emilio is the tiniest member of the bride and groom's ring security team. He is two years old and he is not only adorable, but also incredibly smart and very sweet. This will be his wedding debut and we cannot wait to see him help lead the bride and groom down the aisle! We hope he doesn't take off running elsewhere with his tiny flower girl partner Mai Rosa! ",
                 "content-es" => "Nuestro precioso Emilio es el miembro más pequeño del equipo de seguridad de los anillos de la novia y el novio. Tiene dos años y no solo es adorable, sino también increíblemente inteligente y muy dulce. Este será su debut en una boda y tenemos mucha emocion de verlo ayudar a guiar a los novios hacia el altar! Esperamos no salga corriendo por otro lado con su compañera pajecita Mai Rosa! ",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/emilio.webp"
             ],
@@ -209,8 +209,8 @@ $tabs = [
                 "name" => "Gonzalo",
                 "rol-en" => "Bestman",
                 "rol-es" => "Padrino",
-                "content-en" => "Victoria is the bride's mother and her heart is filled with joy as she watches her precious daughter's love story unfold. She is very happy to be gaining a son that she will love as her own! She can be credited for Ana's compassionate, warm and loving nature. Victoria enjoys playing board games, dancing, traveling, and spending time with loved ones. Hugs, heart to heart conversations, laughter, and family time are what make her heart glow! She has been the most loving and amazing mother in the universe and Ana hopes to be half as amazing as she is someday. Victoria is a true example of beauty, grace, integrity and the very best of human kind. Ana's heart is overflowing with love and gratitude because God gave her the most precious mother in the world. It is an honor to be her daughter and Ana would choose her as her mother in every universe and every lifetime. Sharing this beautiful experience together as mother and daughter is what dreams are made of.",
-                "content-es" => "Victoria es la madre de la novia y su corazón se llena de alegría al ver cómo se desarrolla la historia de amor de su preciosa hija. ¡Está muy feliz de ganar un hijo al que amará como propio! Se le puede atribuir la naturaleza compasiva, cálida y amorosa de Ana. Victoria disfruta los juegos de mesa, bailar, viajar y pasar tiempo con sus seres queridos. ¡Abrazos, conversaciones de corazón a corazón, risas y tiempo en familia son cosas que hacen que su corazón brille! Ha sido la madre más amorosa y maravillosa del universo y Ana espera algún día ser tan increíble como ella. Victoria es un verdadero ejemplo de belleza, gracia, integridad y lo mejor de la humanidad. El corazón de Ana está rebosante de amor y gratitud porque Dios le dio la madre más preciosa del mundo. Es un honor ser su hija y Ana la elegiría como su madre en cada universo y en cada vida. Compartir esta hermosa experiencia juntas como madre e hija es de lo que están hechos los sueños.",
+                "content-en" => "Gonzalo has been like a brother to the bride and he has always been a loving and constant presence in her life. Over the years, they have shared countless memories, unforgettable laughs, and significant moments. The bride fondly remembers how they played and climbed trees as children. Ana would insist that all the tree trunks were 'clinically proven,' which still makes them laugh today and is an inside joke only they understand. Gonzalo's unwavering support has been a source of joy and strength for the bride. She knows his great affection will now extend to the groom and is confident that his big heart, life experience, despite being so young, and absolute dedication to his family, are the perfect qualities the couple dreamed of in a godfather. His presence at the wedding as the godfather is not only an honor for the couple but a testament to the deep bond and affection they share. The couple looks forward to creating many more memories with him, his lovely wife and the entire family!",
+                "content-es" => "Gonzalo ha sido como un hermano para la novia y siempre ha sido una presencia amorosa y constante en su vida. A lo largo de los años, han compartido innumerables recuerdos, risas inolvidables, y momentos importantes! La novia recuerda con mucho cariño como jugaban y trepaban arboles de niños. Ana aseguraba que todos los troncos de los arboles estaban 'clinicamente comprobados.' Esto les causa mucha risa hoy dia y es algo que solo ellos entienden. El cariño y apoyo inquebrantable de Gonzalo han sido una fuente de alegría y fortaleza para la novia atraves de los años. Ella sabe que ese gran cariño ahora sera extendido al novio y esta segura que su gran corazon, experiencia de vida, aun siendo tan joven, y su entrega absoluta a su familia, son las cualidades perfectas que los novios soñaban tener en un padrino. Su presencia en la boda como el padrino no solo es un honor para los novios, sino un testimonio del profundo vínculo y cariño que comparten. Los novios esperan poder crear muchas memorias mas con el, su bella esposa y toda la familia! ",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/padrinos/gonzalito-pendiente.webp"
             ], 
             [
@@ -218,7 +218,7 @@ $tabs = [
                 "rol-en" => "Marriage Godmother",
                 "rol-es" => "Madrina de Matrimonio ",
                 "content-en" => "The couple is very happy to have Ilse, Gonzalo's loving wife, as their wedding godmother. The bride can't believe it has been nearly two decades since her 'co-madre' entered her life. Ana has the privilege of being godmother to Ilse and Gonzalo's middle daughter. She credits Gonzalo for choosing such a wonderful woman as his life partner, as she is beautiful inside and out. Her affection, constant support, and thoughtfulness have made her a cherished member of the family. The couple is grateful for her presence and the special role she will play in their lives. Ilse and Gonzalo have a beautiful marriage, and Ana and Lalo are sure they will learn a lot from their experience as a couple and as a family. Having her support and spiritual guidance not only at the wedding but also in their future is and will be a true blessing for the couple.",
-                "content-es" => "Los novios estan muy felices de tener a Ilse, la amorosa esposa de Gonzalo, como la madrina de boda. La novia no puede creer que ya pasaron dos decadas desde que su comadre entro a su vida. Ana tiene el privilegio de ser la madrina de la hija del medio de Ilse y Gonzalo. Le da mucho credito a Gonzalo por haber elegido a una gran mujer como compañera de vida porque es hermosa por dentro y por fuera. Su cariño, apoyo constante, y detalles con todos la han convertido en un miembro muy apreciado de la familia. Los novios estan agradecidos por su presencia y el papel especial que desempeñara en sus vidas. Ilse y Gonzalo tienen un matrimonio muy lindo y Ana y Lalo estan seguros que aprenderan mucho de su experiencia como pareja y como familia. Tener su apoyo y guia espiritual no solo en la boda pero en su futuro es y sera una verdadera bendición para los novios. ",
+                "content-es" => "Los novios estan muy felices de tener a Ilse, la amorosa esposa de Gonzalo, como la madrina de boda. La novia no puede creer que ya pasaron dos decadas desde que su comadre entro a su vida. Ana tiene el privilegio de ser la madrina de la hija del medio de Ilse y Gonzalo. Le da mucho credito a Gonzalo por haber elegido a una gran mujer como compañera de vida porque es hermosa por dentro y por fuera. Su cariño, apoyo constante, y detalles con todos la han convertido en un miembro muy apreciado de la familia. Los novios estan agradecidos por su presencia y el papel especial que desempeñara en sus vidas. Ilse y Gonzalo tienen un matrimonio muy lindo y Ana y Lalo estan seguros que aprenderan mucho de su experiencia como pareja y como familia. Tener su apoyo y guia espiritual no solo en la boda pero en su futuro es y sera una verdadera bendición para los novios.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/madrinas/ilse-pendiente.webp"
             ]
         ],
@@ -241,7 +241,7 @@ $tabs = [
             </ul>
 
             <?php foreach ($tabs as $key => $tab) { ?>
-                <div id="tab<?php echo $key; ?>" class="tab-content <?php echo $key == 0 ? 'active' : ''; ?>">
+                <div id="tab<?php echo $key; ?>" class="tab<?php echo $key; ?> tab-content <?php echo $key == 0 ? 'active' : ''; ?>">
                     <div class="tab-content__grid">
                         <?php if (!empty($tab['members'])) { ?>
                             <?php foreach ($tab['members'] as $index => $member) { ?>
@@ -250,7 +250,10 @@ $tabs = [
                                     <h2 class="text--14"><?php echo $member['name']; ?></h2>
                                     <p class="text--11"><?php echo $member['rol-en']; ?></p>
                                 </div>
-                                <div id="tab<?php echo $key; ?>-member<?php echo $index; ?>" class="member-content <?php if($index === 0) { echo 'active'; } ?>">
+                                <div id="tab<?php echo $key; ?>-member<?php echo $index; ?>" class="member-content">
+                                    <button type="button" data-close-member>
+                                        <img src="<?php echo IMG_BASE . 'icon-close.svg'; ?>" alt="icon close">
+                                    </button>
                                     <h2 class="text--28"><?php echo $member['name']; ?></h2>
                                     <h2 class="text--14 pb-28"><?php echo $member['rol-en']; ?> / <?php echo $member['rol-es']; ?></h2>
                                     <p class="text--11">
@@ -281,7 +284,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const tabContents = document.querySelectorAll(".tab-content");
         tabContents.forEach(tabContent => {
             const firstMemberContent = tabContent.querySelector(".member-content");
-            if (firstMemberContent) {
+            if (firstMemberContent && window.matchMedia("(min-width: 1024px)").matches) {
                 firstMemberContent.classList.add("active");
             }
         });
@@ -294,10 +297,28 @@ document.addEventListener("DOMContentLoaded", function() {
             member.addEventListener("click", function() {
                 const contentId = this.getAttribute("data-tab");
                 const content = document.getElementById(contentId);
-                const tabContent = content.closest(".tab-content");
-                const allContents = tabContent.querySelectorAll(".member-content");
-                allContents.forEach(content => content.classList.remove("active"));
-                content.classList.add("active");
+                if (content) {
+                    const tabContent = content.closest(".tab-content");
+                    if (tabContent) {
+                        const allContents = tabContent.querySelectorAll(".member-content");
+                        allContents.forEach(content => content.classList.remove("active"));
+                        content.classList.add("active");
+                    }
+                }
+            });
+        });
+    }
+
+
+    // Función para manejar el clic en el botón de cierre
+    function handleCloseButtonClick() {
+        const closeButtons = document.querySelectorAll("[data-close-member]");
+        closeButtons.forEach(button => {
+            button.addEventListener("click", function() {
+                const memberContent = this.closest(".member-content");
+                if (memberContent) {
+                    memberContent.classList.remove("active");
+                }
             });
         });
     }
@@ -311,7 +332,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Manejar el clic en los nombres de los miembros
     handleMemberClick();
+
+    handleCloseButtonClick();
 });
+
 </script>
 
 
