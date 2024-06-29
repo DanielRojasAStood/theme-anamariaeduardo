@@ -1959,3 +1959,12 @@ label.small {
   display: block;
   margin: 10px 0 0;
 }
+
+img.animation {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  width: auto;
+  margin: 0 auto;
+  transform: translate(-50%, 0%);
+}
