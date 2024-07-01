@@ -5,7 +5,7 @@ Template Name: Events
 get_header(); 
 ?>
 
-  <main>
+<main class="section__main">
     <section class="sectionEvents">
         <div class="sectionEvents__bckg-fixed"></div>
         <div class="box text-center">

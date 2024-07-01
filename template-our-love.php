@@ -80,7 +80,7 @@ $love = [
   ];
 ?>
 
-<main>
+<main class="section__main">
   <section class="sectionOurLove">
     <div class="sectionOurLove__bckg-fixed"></div>
     <div class="box">

@@ -5,7 +5,7 @@ Template Name: Welcome
 get_header(); 
 ?>
 
-  <main>
+<main class="section__main">
     <section class="sectionWelcome">
         <div class="sectionWelcome__bckg-fixed"></div>
         <div class="box text-center">

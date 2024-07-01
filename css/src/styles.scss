@@ -608,6 +608,15 @@ body {
 
 /* Section */
 .section {
+  &__main {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+
+    &.show {
+      opacity: 1;
+    }
+  }
+  
   &Home {
     width: 100%;
     height: 100vh;
@@ -615,12 +624,6 @@ body {
     background-image: url(../../img/bckg-1.webp);
     background-position: center;
     background-size: cover;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-
-    &.show {
-      opacity: 1;
-    }
 
     &__button {
       position: relative;

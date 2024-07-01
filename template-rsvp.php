@@ -6,7 +6,7 @@ get_header();
 
 ?>
 
-<main>
+<main class="section__main">
     <section class="sectionRSVP">
         <div class="sectionRSVP__bckg-fixed"></div>
         <div class="box text-center">

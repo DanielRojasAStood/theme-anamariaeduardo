@@ -226,7 +226,7 @@ $tabs = [
 ];
 ?>
 
-<main>
+<main class="section__main">
   <section class="sectionWeddingParty">
     <div class="sectionWeddingParty__bckg-fixed"></div>
     <div class="box">

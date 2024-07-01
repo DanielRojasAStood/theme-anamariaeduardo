@@ -97,5 +97,17 @@
   </section>
 </footer>
 
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      setTimeout(function() {
+          document.querySelector(".section__main").classList.add("show");
+          document.querySelector(".loader").classList.add("hide");
+          setTimeout(function() {
+              document.querySelector(".loader").style.display = "none";
+          }, 900);
+      }, 1000);
+    });
+</script>
+
 <!-- wordpress footer includes -->
 <?php wp_footer(); ?>

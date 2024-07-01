@@ -25,7 +25,7 @@ $gallery = [
 ]
 ?>
 
-  <main>
+<main class="section__main">
     <section class="sectionWedding">
         <div class="sectionWedding__bckg-fixed"></div>
         <div class="sectionWedding__img">

@@ -5,7 +5,7 @@ Template Name: Cartagena
 get_header(); 
 ?>
 
-  <main>
+<main class="section__main">
     <section class="sectionCartagena">
         <div class="sectionCartagena__bckg-fixed"></div>
         <div class="box text-center">

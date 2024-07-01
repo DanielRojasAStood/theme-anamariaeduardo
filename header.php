@@ -34,6 +34,12 @@
 </head>
 <body>
 
+<div class="loader">
+      <div class="loader-logo">
+        <img src="<?php echo IMG_BASE . 'Ana-Maria-y-Eduardo-logo.svg' ?>" class="header__logo" alt="" id="" />
+      </div>
+    </div>
+
 <!-- Header -->
 <?php if(!is_page('inicio') && !is_page('under')) : ?>
 <header class="header" data-header>
