@@ -8,7 +8,7 @@ get_header();
   <main>
     <div class="loader">
       <div class="loader-logo">
-        <img src="<?php echo IMG_BASE . 'Ana-Maria-y-Eduardo-logo-web.webp' ?>" class="header__logo" alt="" id="" />
+        <img src="<?php echo IMG_BASE . 'Ana-Maria-y-Eduardo-logo.svg' ?>" class="header__logo" alt="" id="" />
       </div>
     </div>
     <section class="sectionHome">

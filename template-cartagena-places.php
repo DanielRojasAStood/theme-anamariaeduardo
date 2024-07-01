@@ -6,7 +6,8 @@ get_header();
 
 $places = [
     "brunchdesserts" => [
-        "title" => "Brunch Desserts",
+        "title" => "Desserts & Brunch",
+        "title_es" => "Postres y Brunch",
         "places" => [
             [
                 "name" => "MILA\nPASTELERÍA",
@@ -22,7 +23,7 @@ $places = [
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 5 6651156",
                 "link" => "https://juanvaldez.com/",
-                "image" => IMG_BASE . 'slick-images/slick-image-2.png',
+                "image" => IMG_BASE . 'slick-images/slick-image-69.png',
             ],
             [
                 "name" => "ÉPOCA\nESPRESSO",
@@ -37,7 +38,7 @@ $places = [
                 "address" => "Cl. 35 #03 - 86 local 2",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 56661579",
-                "link" => "http=>//www.lapaletteria.co/",
+                "link" => "https://www.instagram.com/lapaletteria/?hl=en",
                 "image" => IMG_BASE . 'slick-images/slick-image-4.png',
             ],
             [
@@ -91,7 +92,8 @@ $places = [
         ],
     ],
     "placesvisit" =>[
-        "title" => "Places To Visit",
+        "title" => "Places to Visit",
+        "title_es" => "Lugares para visitar",
         "places" => [
             [
                 "name" => "murallas cartagena",
@@ -184,14 +186,15 @@ $places = [
         ]
     ],
     "boutiques" => [
-        "title" => "boutiques",
+        "title" => "Malls & Boutiques",
+        "title_es" => "Centros Comerciales y Boutiques",
         "places" => [
             [
                 "name" => "C.C. LA SERREZUELA",
                 "address" => "Cra. 11 # 39 - 21",
                 "city" => "Cartagena, Colombia",
                 "phone" => "+57 (605) 6421795",
-                "link" => "https://www.plazalaserrezuela.com/",
+                "link" => "https://laserrezuela.co",
                 "image" => IMG_BASE . 'slick-images/slick-image-22.png',
             ],
             [            
@@ -233,7 +236,7 @@ $places = [
                 "address" => "Cra. 3 # 33 - 70",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 (605) 6354380",
-                "link" => "http=>//www.lurecartagena.com/st-dom/",
+                "link" => "http://www.lurecartagena.com/st-dom/",
                 "image" => IMG_BASE . 'slick-images/slick-image-27.png',
             ],
             [
@@ -241,7 +244,7 @@ $places = [
                 "address" => "Calle 31 # 31 - 11",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 (605) 6790051",
-                "link" => "https://www.silviatcherassi.com/co/es/tiendas/cartagena",
+                "link" => "https://co.silviatcherassi.com",
                 "image" => IMG_BASE . 'slick-images/slick-image-28.png',
             ],
             [
@@ -258,7 +261,7 @@ $places = [
                 "address" => "Calle 33 # 3 - 04",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 320 5651113",
-                "link" => "https://sofiyleo.com/cartagena/href=",
+                "link" => "https://beatrizcamacho.com",
                 "image" => IMG_BASE . 'slick-images/slick-image-30.png',
             ],
             [
@@ -289,6 +292,7 @@ $places = [
     ],
     "hotels" => [
         "title" => "Hotels",
+        "title_es" => "Hoteles",
         "places" => [
             [
                 "name" => "SOFITEL LEGEND\nSANTA CLARA",
@@ -343,7 +347,7 @@ $places = [
                 "address" => "Calle de Don Sancho # 36",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 5 6647727",
-                "link" => "https://mustique.co/landing/bienvenido-casa-la-merced/",
+                "link" => "https://mustique.co/bienvenidos/casas/la-merced/",
                 "image" => IMG_BASE . 'slick-images/slick-image-40.png',
             ],
             [
@@ -375,7 +379,7 @@ $places = [
                 "address" => "Calle de las Carretas # 34 - 85",
                 "city" => "Cartagena, Colombia",
                 "phone" => "+57 300 9121453",
-                "link" => "",
+                "link" => "https://www.huespedia.com/voila-hotels-es/",
                 "image" => IMG_BASE . 'slick-images/slick-image-44.png',
             ],
             [
@@ -391,7 +395,7 @@ $places = [
                 "address" => "Cra. 1 # 11 - 116",
                 "city" => "Cartagena, Colombia",
                 "phone" => "+57 (605) 6517303",
-                "link" => "",
+                "link" => "https://hotelesestelar.com/es/destinos/colombia/cartagena-de-indias",
                 "image" => IMG_BASE . 'slick-images/slick-image-46.png',
             ],
             [
@@ -406,6 +410,7 @@ $places = [
     ],
     "restaurants" => [
         "title" => "Restaurants",
+        "title_es" => "Restaurantes",
         "places" => [
             [
                 "name" => "CANDÉ",
@@ -460,7 +465,7 @@ $places = [
                 "address" => "Cra. 3 # 31 - 19",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 (605) 6501015",
-                "link" => "https://www.harrysasson.com/harrys-bar-cartagena/",
+                "link" => "https://harrysasson.com",
                 "image" => IMG_BASE . 'slick-images/slick-image-54.png',
             ],
             [
@@ -500,7 +505,7 @@ $places = [
                 "address" => "Calle Santo Domingo # 33 - 48",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 (605) 56606764",
-                "link" => "https://cartagena.restaurantecuzco.com/",
+                "link" => "https://www.instagram.com/restaurantecuzco/?hl=en",
                 "image" => IMG_BASE . 'slick-images/slick-image-59.png',
             ],
             [
@@ -522,7 +527,8 @@ $places = [
         ],
     ],
     "beautysalons" => [
-        "title" => "Beauty Salons",
+        "title" => "Beauty Salons & Barber",
+        "title_es" => "Peluquerías y Belleza",
         "places" => [
             [
                 "name" => "PORTADA\nPELUQUERÍA",
@@ -545,7 +551,7 @@ $places = [
                 "address" => "Calle 39 # 7 - 14",
                 "city" => "Centro Histórico, Cartagena",
                 "phone" => "+57 (605) 6798743",
-                "link" => "https://www.instagram.com/carlos_torres_vargas/",
+                "link" => "https://www.instagram.com/carlostorres.studio10/",
                 "image" => IMG_BASE . 'slick-images/slick-image-64.png',
             ],
             [
@@ -595,7 +601,12 @@ $places = [
           </div>
           <div class="sectionCartagena__places">
             <?php foreach ($places as $category) { ?>
-              <h2 class="text--28" id="<?php echo $category['title']; ?>"><?php echo $category['title']; ?></h2>
+                <h2 class="text--28" id="<?php echo $category['title']; ?>">
+                    <?php echo $category['title']; ?>
+                </h2>
+                <p class="text--24">
+                    <?php echo $category['title_es']; ?>
+                </p>
               <div class="slick0">
                   <?php foreach ($category['places'] as $place) { ?>
                     <div class="sectionCartagena__card">
@@ -605,7 +616,9 @@ $places = [
                             <?php endif?>
                             <div class="sectionCartagena__info">
         
-                            <h2 class="text--24 font-hatton"><?php echo $place['name']; ?></h2>
+                            <h2 class="text--24 font-hatton">
+                                <?php echo $place['name']; ?>
+                            </h2>
         
                             <?php if ($place['address']) : ?>
                             <p class="text--18"><?php echo $place['address']; ?></p>

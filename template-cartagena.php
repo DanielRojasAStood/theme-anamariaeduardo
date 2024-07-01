@@ -34,32 +34,38 @@ get_header();
           <?php 
             $icons = [
               [
-                "name" => "BRUNCH & DESSERTS",
+                "name" => "Desserts & Brunch",
+                "name_es" => "Postres y Brunch",
                 "icon" => "icon-3",
                 "link" => "/places#Brunch Desserts"
               ],
               [
-                "name" => "PLACES TO VISIT",
+                "name" => "Places to Visit",
+                "name_es" => "Lugares para visitar",
                 "icon" => "icon-4",
                 "link" => "/places#Bars"
               ],
               [
-                "name" => "BOUTIQUES",
+                "name" => "Malls & Boutiques",
+                "name_es" => "Centros Comerciales y Boutiques",
                 "icon" => "icon-5",
                 "link" => "/places#boutiques"
               ],
               [
-                "name" => "HOTELS",
+                "name" => "Hotels",
+                "name_es" => "Hoteles",
                 "icon" => "icon-1",
                 "link" => "/places#hotels"
               ],
               [
-                "name" => "RESTAURANTS",
+                "name" => "Restaurants",
+                "name_es" => "Restaurantes",
                 "icon" => "icon-2",
                 "link" => "/places#Restaurants"
               ],
               [
-                "name" => "BEAUTY SALONS",
+                "name" => "Beauty Salons & Barber",
+                "name_es" => "Peluquerías y Belleza",
                 "icon" => "icon-6",
                 "link" => "/places#Beauty Salons"
               ],              
@@ -69,7 +75,10 @@ get_header();
           <div class="sectionCartagena__icons">
             <?php foreach ($icons as $key => $icon) { ?>
               <a href="<?php echo $icon['link']; ?>" class="text--28">
-                <?php echo $icon['name']; ?> 
+                <div>
+                  <h3><?php echo $icon['name']; ?></h3> 
+                  <p><?php echo $icon['name_es']; ?></p>
+                </div>
                 <span>
                   <?php 
                       $icon_name = $icon['icon'];

@@ -1,6 +1,6 @@
 function countdownTimer(seconds) {
   if (seconds <= 0) {
-    document.getElementById("countdown-timer").innerHTML = "Countdown Finish";
+    document.getElementById("countdown-timer").innerHTML = "Countdown Ended";
   } else {
     var c_days = Math.floor(seconds / (60 * 60 * 24));
     var c_hrs = Math.floor((seconds % (60 * 60 * 24)) / (60 * 60));

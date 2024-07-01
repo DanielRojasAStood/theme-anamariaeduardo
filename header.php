@@ -38,7 +38,7 @@
 <?php if(!is_page('inicio') && !is_page('under')) : ?>
 <header class="header" data-header>
   <a href="/" class="header__menu-mobile">
-    <img src="<?php echo IMG_BASE . 'Ana-Maria-y-Eduardo-logo-web.webp' ?>" class="header__logo" alt="" id="" />
+    <img src="<?php echo IMG_BASE . 'Ana-Maria-y-Eduardo-logo.svg' ?>" class="header__logo" alt="" id="" />
   </a>
   <nav>
     <ul class="header__menu">

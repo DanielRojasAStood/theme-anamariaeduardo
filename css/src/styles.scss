@@ -504,9 +504,9 @@ body {
   }
 
   &__logo {
-    max-width: 190px;
+    max-width: 40px;
     @media only screen and (min-width: 1024px) {
-      max-width: 190px;
+      max-width: 40px;
     }
   }
 
@@ -1257,8 +1257,14 @@ body {
         padding: 0 0 10px;
 
         @media only screen and (min-width: 1024px) {
-          padding: 80px 0 30px;
+          padding: 80px 0 0;
         }
+      }
+
+      .text--24 {
+        font-family: var(--font-hatton);
+        text-transform: capitalize;
+        padding-bottom: 30px;
       }
 
       .text--11 {
@@ -1337,6 +1343,42 @@ body {
         letter-spacing: 4px;
         border: 1px solid var(--333);
         background-color: transparent;
+      }
+    }
+
+    &__icons {
+      h3 {
+        font-family: var(--font-hatton);
+        color: var(--000);
+        font-size: var(--20);
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 2.8px;
+        text-align: left;
+        text-transform: uppercase;
+
+        @media only screen and (min-width: 1024px) {
+          font-size: var(--28);
+          letter-spacing: 2.8px;
+        }
+      }
+
+      p {
+        font-family: var(--font-hatton);
+        color: var(--000);
+        font-size: var(--16);
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 1.8px;
+        text-align: left;
+
+        @media only screen and (min-width: 1024px) {
+          font-size: var(--18);
+          letter-spacing: 1.8px;
+          line-height: 38px;
+        }
       }
     }
   }
@@ -2017,7 +2059,7 @@ img.animation {
 
   &.hide {
     opacity: 0;
-    pointer-events: none; 
+    pointer-events: none;
   }
 
   &-logo {
@@ -2028,8 +2070,7 @@ img.animation {
     animation: 1s ease-in-out forwards scale;
 
     img {
-      width: 190px;
-      height: 44px;
+      width: 130px;
     }
   }
 }
@@ -2042,5 +2083,15 @@ img.animation {
   100% {
     opacity: 0;
     transform: translate(-50%, -50%) scale(1.2);
+  }
+}
+
+#tab4 {
+  @media only screen and (min-width: 1024px) {
+    height: 400px;
+
+    .tab-content__grid {
+      padding: 0 440px 210px 0;
+    }
   }
 }
