@@ -61,10 +61,11 @@ export function initSlickCarousels() {
   $(".slickGallery").slick({
     dots: false,
     infinite: true,
-    speed: 500,
-    slidesToShow: 3,
+    speed: 1500,
+    slidesToShow: 1,
     autoplay: true,
     autoplaySpeed: 5000,
+    fade: true,
     navigation: {
       nextEl: ".swiper-button-next-1",
       prevEl: ".swiper-button-prev-1",
@@ -73,12 +74,12 @@ export function initSlickCarousels() {
       {
         breakpoint: 1024,
         settings: {
-          slidesToShow: 2,
+          slidesToShow: 1,
           slidesToScroll: 1,
         }
       },
       {
-        breakpoint: 680,
+        breakpoint: 480,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,

@@ -17,6 +17,14 @@ get_header();
             <?php echo do_shortcode('[contact-form-7 id="f96efb5" title="RSVP"]')?>
         </div>
     </section>
+
+    <div id="successModal" class="modal-rsvp">
+        <div class="modal-rsvp-content">
+            <span class="close">&times;</span>
+            <p class="text--24">THANKS</p>
+            <p class="text--18">Your confirmation has been sent <br> successfully.</p>
+        </div>
+    </div>
 </main>
 
 

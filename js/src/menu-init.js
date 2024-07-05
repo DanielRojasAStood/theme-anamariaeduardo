@@ -46,3 +46,24 @@ $(window).scroll(function () {
   //   return ((elemTop + threshold <= docViewBottom) && (elemBottom >= docViewTop + middleThreshold));
   // }
 });
+
+document.addEventListener('wpcf7mailsent', function(event) {
+  // Muestra el modal
+  var modal = document.getElementById("successModal");
+  modal.style.display = "block";
+
+  // Obtiene el elemento <span> que cierra el modal
+  var span = document.getElementsByClassName("close")[0];
+
+  // Cuando el usuario hace clic en <span> (x), cierra el modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+
+  // Cuando el usuario hace clic fuera del modal, lo cierra
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+}, false);

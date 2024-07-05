@@ -222,7 +222,7 @@ $faqs = [
         <div class="sectionRSVP__bckg-fixed"></div>
         <div class="box text-center">
             <div class="sectionRSVP__faqs" id="faqs">
-                <p class="text--22">F.A.Q.S.</p>
+                <p class="text--22">F.A.Q</p>
                 <h2 class="text--56 pb-48">Preguntas Frecuentes</h2>
                 <?php foreach ($faqs as $key => $faq) { ?>
                     <div>
