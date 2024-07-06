@@ -383,6 +383,14 @@ body {
     line-height: normal;
     letter-spacing: 1.4px;
     text-transform: uppercase;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 10px;
+
+    @media only screen and (min-width: 1024px) {
+      margin-bottom: 0;
+      width: 340px;
+    }
   }
 
   @media only screen and (min-width: 1024px) {
@@ -2278,4 +2286,8 @@ img.animation {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+.wpcf7-form-control-wrap {
+  width: 100%;
 }
