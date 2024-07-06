@@ -1008,13 +1008,13 @@ body {
 
     .box {
       position: relative;
-      max-width: 1140px;
+      max-width: 1200px;
       margin: 100px auto 0;
       padding: 40px 20px;
 
       @media only screen and (min-width: 1024px) {
         margin: 132px auto 50px;
-        padding: 55px 48px;
+        padding: 55px 30px;
       }
 
       @media only screen and (min-height: 600px) {
@@ -1103,7 +1103,7 @@ body {
           padding: 0;
 
           @media only screen and (min-width: 1024px) {
-            padding: 0 750px 16px 0;
+            padding: 0 800px 16px 0;
             // overflow: auto;
           }
 
@@ -1130,8 +1130,12 @@ body {
         height: 100vh;
         background-color: var(--FFF);
         padding: 0 20px 20px;
-        z-index: 10;
+        z-index: 11;
         overflow: auto;
+
+        @media only screen and (min-width: 1024px) {
+          z-index: 10;
+        }
 
         button {
           position: absolute;
@@ -1160,9 +1164,9 @@ body {
           margin: 20px 0 20px;
 
           @media only screen and (min-width: 1024px) {
-            width: 180px;
-            height: 180px;
-            margin: 0 20px 20px;
+            width: 260px;
+            height: 260px;
+            margin: 0 0 20px;
           }
         }
 
@@ -1171,7 +1175,7 @@ body {
           top: 0;
           left: inherit;
           right: 0;
-          width: 730px;
+          width: 800px;
           min-height: 100%;
           height: auto;
           background-color: transparent;
@@ -1692,7 +1696,7 @@ textarea {
   display: block;
   margin-bottom: 6px;
   color: #4d4d4d;
-  font-size: var(--10);
+  font-size: var(--12);
   font-style: normal;
   font-weight: 500;
   line-height: normal;
@@ -2148,7 +2152,7 @@ img.animation {
 #tab4 {
   @media only screen and (min-width: 1024px) {
     .tab-content__grid {
-      padding: 0 750px 16px 0;
+      padding: 0 800px 16px 0;
     }
   }
 }
