@@ -71,8 +71,8 @@ $galleryMobile = [
             <div class="col">
               <p class="text--16" style="line-height: 7px">CEREMONY</p>
               <p class="text--30 pb-7">Ceremonia</p>
-              <p class="text--16" style="letter-spacing:normal">Catedral De</p>
-              <p class="text--16 pb-7" style="letter-spacing:normal">Santa Catalina De Alejandría</p>
+              <p class="text--16" style="letter-spacing:normal">Catedral de</p>
+              <p class="text--16 pb-7" style="letter-spacing:normal">Santa Catalina de Alejandría</p>
               <a href="https://maps.app.goo.gl/d6BFo6xpEVm6JMHZ6" target="_blank" class="button button--pink">Map Location</a>
               <p class="text--14 pt-7 pb-7">3:00 p.m.</p>
               <button type="button" href="#" class="button button--pink" data-open-modal="modal-3">Dress Code</button>

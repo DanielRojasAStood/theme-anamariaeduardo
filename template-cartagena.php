@@ -34,36 +34,42 @@ get_header();
           <?php 
             $icons = [
               [
+                "id" => "/places/#desserts-brunch",
                 "name" => "Desserts & Brunch",
                 "name_es" => "Postres y Brunch",
                 "icon" => "icon-3",
                 "link" => "/places#Brunch Desserts"
               ],
               [
+                "id" => "/places/#places-to-visit",
                 "name" => "Places to Visit",
                 "name_es" => "Lugares para visitar",
                 "icon" => "icon-4",
                 "link" => "/places#Bars"
               ],
               [
+                "id" => "/places/#malls-boutiques",
                 "name" => "Malls & Boutiques",
                 "name_es" => "Centros Comerciales y Boutiques",
                 "icon" => "icon-5",
                 "link" => "/places#boutiques"
               ],
               [
+                "id" => "/places/#hotels",
                 "name" => "Hotels",
                 "name_es" => "Hoteles",
                 "icon" => "icon-1",
                 "link" => "/places#hotels"
               ],
               [
+                "id" => "/places/#restaurants",
                 "name" => "Restaurants",
                 "name_es" => "Restaurantes",
                 "icon" => "icon-2",
                 "link" => "/places#Restaurants"
               ],
               [
+                "id" => "/places/#beauty-salons-barber",
                 "name" => "Beauty Salons & Barber",
                 "name_es" => "Peluquerías y Belleza",
                 "icon" => "icon-6",
@@ -74,7 +80,7 @@ get_header();
 
           <div class="sectionCartagena__icons">
             <?php foreach ($icons as $key => $icon) { ?>
-              <a href="<?php echo $icon['link']; ?>" class="text--28">
+              <a href="<?php echo $icon['id']; ?>" class="text--28">
                 <div>
                   <h3><?php echo $icon['name']; ?></h3> 
                   <p><?php echo $icon['name_es']; ?></p>

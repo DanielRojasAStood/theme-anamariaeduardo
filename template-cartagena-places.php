@@ -6,6 +6,7 @@ get_header();
 
 $places = [
     "brunchdesserts" => [
+        "id" => "desserts-brunch",
         "title" => "Desserts & Brunch",
         "title_es" => "Postres y Brunch",
         "places" => [
@@ -92,6 +93,7 @@ $places = [
         ],
     ],
     "placesvisit" =>[
+        "id" => "places-to-visit",
         "title" => "Places to Visit",
         "title_es" => "Lugares para visitar",
         "places" => [
@@ -186,6 +188,7 @@ $places = [
         ]
     ],
     "boutiques" => [
+        "id" => "malls-boutiques",
         "title" => "Malls & Boutiques",
         "title_es" => "Centros Comerciales y Boutiques",
         "places" => [
@@ -291,6 +294,7 @@ $places = [
         ],
     ],
     "hotels" => [
+        "id" => "hotels",
         "title" => "Hotels",
         "title_es" => "Hoteles",
         "places" => [
@@ -409,6 +413,7 @@ $places = [
         ],
     ],
     "restaurants" => [
+        "id" => "restaurants",
         "title" => "Restaurants",
         "title_es" => "Restaurantes",
         "places" => [
@@ -527,6 +532,7 @@ $places = [
         ],
     ],
     "beautysalons" => [
+        "id" => "beauty-salons-barber",
         "title" => "Beauty Salons & Barber",
         "title_es" => "Peluquerías y Belleza",
         "places" => [
@@ -584,7 +590,7 @@ $places = [
                 "city" => "Cartagena, Colombia",
                 "phone" => "+57 301 3803447",
                 "link" => "https://www.instagram.com/angiecabreramakeup/?hl=en",
-                "image" => IMG_BASE . 'slick-images/slick-image-68.png',
+                "image" => IMG_BASE . 'slick-images/slick-image-70.png',
             ],
         ],
     ],
@@ -601,7 +607,7 @@ $places = [
           </div>
           <div class="sectionCartagena__places">
             <?php foreach ($places as $category) { ?>
-                <h2 class="text--28" id="<?php echo $category['title']; ?>">
+                <h2 class="text--28" id="<?php echo $category['id']; ?>">
                     <?php echo $category['title']; ?>
                 </h2>
                 <p class="text--24">

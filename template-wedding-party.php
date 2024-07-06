@@ -342,8 +342,8 @@ $tabs = [
   <section class="sectionWeddingParty">
     <div class="sectionWeddingParty__bckg-fixed"></div>
     <div class="box">
-        <!-- <h2 class="text--22 text-center" style="height: 15px">WEDDING PARTY</h2>
-        <h2 class="text--56 pb-7 text-center pb-28">Cortejo Nupcial</h2> -->
+        <h2 class="text--22 text-center" style="height: 15px">WEDDING PARTY</h2>
+        <h2 class="text--56 pb-7 text-center pb-28">Cortejo Nupcial</h2>
 
         <div class="tabs-container">
             <ul class="tabs">

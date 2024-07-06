@@ -88,7 +88,7 @@
         ?>
         </button>
         <img
-          src="<?php echo IMG_BASE . 'more-info-gift.webp' ?>"
+          src="<?php echo IMG_BASE . 'new-more-info-reception.webp' ?>"
           alt=""
           id=""
         />

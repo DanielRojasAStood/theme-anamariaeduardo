@@ -96,6 +96,7 @@ video {
 
 html {
   scroll-behavior: smooth;
+  scroll-padding: 10px;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -655,7 +656,7 @@ body {
 
     .box {
       position: relative;
-      max-width: 489px;
+      max-width: 540px;
       padding: 40px 20px 20px;
       margin: 100px auto 0;
       background-color: transparent;

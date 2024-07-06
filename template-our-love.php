@@ -8,7 +8,7 @@ $love = [
   [
     'year' => "2013",
     'text-en' => "Lalo and Ana's relationship was ignited at a new Year's party at the beginning of 2013. After a fun night of dancing and laughter, they both knew something special had taken place and thus began their journey of friendship and love. Little did Ana know, Lalo had already decided she was the woman he was going to spend his life with. Though it took him all year, he finally got Ana to agree to go out with him. With a racing mind and a hopeful heart he officially asked Ana to be his girlfriend.",
-    'text-es' => "La relación de Lalo y Ana comenzó en una fiesta de Año Nuevo a principios del 2013. Después de una divertida noche de baile y risas, ambos supieron que algo especial había sucedido y así comenzaron su viaje de amistad y amor. Lo que Ana no sabía era que Lalo ya había decidido que ella era la mujer con la que el iba a pasarel resto de su vida. Aunque le tomo todo el año, finalmente consiguió que Ana aceptara salir con él. Con la mente acelerada y el corazón lleno de esperanza, le pidió oficialmente a Ana que fuera su novia.",
+    'text-es' => "La relación de Lalo y Ana comenzó en una fiesta de Año Nuevo a principios del 2013. Después de una divertida noche de baile y risas, ambos supieron que algo especial había sucedido y así comenzaron su viaje de amistad y amor. Lo que Ana no sabía era que Lalo ya había decidido que ella era la mujer con la que el iba a pasar el resto de su vida. Aunque le tomo todo el año, finalmente consiguió que Ana aceptara salir con él. Con la mente acelerada y el corazón lleno de esperanza, le pidió oficialmente a Ana que fuera su novia.",
     'image' => "2013.webp",
     'image_2' => ""
   ],
@@ -96,7 +96,7 @@ $love = [
   <section class="sectionOurLove">
     <div class="sectionOurLove__bckg-fixed"></div>
     <div class="box">
-      <h2 class="text--22 text-center" style="height: 15px">OUR STORY LOVE</h2>
+      <h2 class="text--22 text-center" style="height: 15px">OUR LOVE STORY</h2>
       <h2 class="text--56 pb-7 text-center pb-28">Nuestra Historia De Amor</h2>
 
       <div class="grid">
