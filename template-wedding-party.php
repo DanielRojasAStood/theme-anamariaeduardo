@@ -216,11 +216,11 @@ $tabs = [
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/emilio.webp"
             ],
             [
-                "name" => "Mattheo",
+                "name" => "Matteo",
                 "rol-en" => "Ring Bearer",
                 "rol-es" => "Pajecito Portador de los Anillos",
-                "content-en" => "Affectionately known as #4, Mattheo is Lalo’s younger brother whose love and affection are boundless. He is convinced that he'll outgrow his brothers one day, Mattheo brings laughter and lightness to every family gathering. He’s thrilled to see Ana officially join the family and looks up to Lalo and Ana as his godparents, who will guide him through life’s adventures.",
-                "content-es" => "Conocido cariñosamente como #4, Mattheo es el hermano menor de Lalo cuyo amor y afecto no tienen límites. Está convencido de que algún día superará en altura a sus hermanos. Mattheo trae risas y alegría a cada reunión familiar. Está emocionado de ver a Ana unirse oficialmente a la familia y admira mucho a Lalo y a Ana, viéndolos como sus padrinos que lo guíaran a través de las aventuras de la vida.",
+                "content-en" => "Affectionately known as #4, Matteo is Lalo’s younger brother whose love and affection are boundless. He is convinced that he'll outgrow his brothers one day, Matteo brings laughter and lightness to every family gathering. He’s thrilled to see Ana officially join the family and looks up to Lalo and Ana as his godparents, who will guide him through life’s adventures.",
+                "content-es" => "Conocido cariñosamente como #4, Matteo es el hermano menor de Lalo cuyo amor y afecto no tienen límites. Está convencido de que algún día superará en altura a sus hermanos. Matteo trae risas y alegría a cada reunión familiar. Está emocionado de ver a Ana unirse oficialmente a la familia y admira mucho a Lalo y a Ana, viéndolos como sus padrinos que lo guíaran a través de las aventuras de la vida.",
                 "image" => "/wp-content/themes/theme-anamariaeduardo/img/padrinos/pajecitos/mattheo.webp"
             ],
             [

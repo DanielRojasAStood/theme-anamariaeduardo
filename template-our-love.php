@@ -96,7 +96,7 @@ $love = [
   <section class="sectionOurLove">
     <div class="sectionOurLove__bckg-fixed"></div>
     <div class="box">
-      <h2 class="text--22 text-center" style="height: 15px">OUR LOVE STORY</h2>
+      <!-- <h2 class="text--22 text-center" style="height: 15px">OUR LOVE STORY</h2> -->
       <h2 class="text--56 pb-7 text-center pb-28">Nuestra Historia De Amor</h2>
 
       <div class="grid">
@@ -104,8 +104,8 @@ $love = [
           <div class="sectionOurLove__content">
             <?php foreach ($love as $key => $item) { ?>
               <div class="sectionOurLove__year" id="year-<?php echo $item['year']; ?>">
-                <img src="<?php echo IMG_BASE . "history/" . $item['image']; ?>">
                 <h2 class="text--28"><?php echo $item['year']; ?></h2>
+                <img src="<?php echo IMG_BASE . "history/" . $item['image']; ?>">
                 <p class="text--11"><?php echo $item['text-en']; ?></p>
                 <?php if( $item['image_2'] != '') : ?>
                 <img src="<?php echo IMG_BASE . "history/" . $item['image_2']; ?>">
