@@ -22,7 +22,7 @@ get_header();
         <div class="modal-rsvp-content">
             <span class="close">&times;</span>
             <p class="text--24">THANKS</p>
-            <p class="text--18">Your confirmation has been sent <br> successfully.</p>
+            <p class="text--18">Your confirmation has been sent successfully.</p>
         </div>
     </div>
 </main>
