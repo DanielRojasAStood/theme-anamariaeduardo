@@ -636,6 +636,25 @@ body {
 
     &__button {
       position: relative;
+      display: flex;
+      justify-content: center;
+
+      .button {
+        font-size: var(--12);
+        height: 40px;
+        width: 130px;
+      }
+
+      @media only screen and (min-width: 1024px) {
+        text-align: left;
+        justify-content: flex-start;
+
+        .button {
+          font-size: var(--18);
+          height: 60px;
+          width: 215px;
+        }
+      }
     }
   }
 
