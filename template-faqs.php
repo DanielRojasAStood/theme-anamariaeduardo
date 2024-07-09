@@ -87,19 +87,19 @@ $faqs = [
     ],
     [
         'question' => 'When is the RSVP deadline for the wedding?',
-        'answer' => 'Please RSVP online for all of the wedding events by July 1, 2024.'
+        'answer' => 'Please RSVP online for all of the wedding events by July 16, 2024.'
     ],
     [
         'question' => '¿Cuál es la fecha límite para confirmar la asistencia (RSVP) para la boda?',
-        'answer' => 'Por favor, confirma tu asistencia a los eventos en línea antes del 1 de julio, 2024.'
+        'answer' => 'Por favor, confirma tu asistencia a los eventos en línea antes del 16 de julio, 2024.'
     ],
     [
         'question' => 'Can I bring a date to the wedding?',
-        'answer' => 'Please check your invitation for an additional guest. The wedding is strictly adults-only, and we request that you do not bring uninvited guests to the event.'
+        'answer' => 'Please check your invitation for an additional guest. The wedding is strictly RSVP, and only listed guests are accommodated. Please contact the concierge for inquiries.'
     ],
     [
         'question' => '¿Puedo llevar una pareja a la boda?',
-        'answer' => 'Por favor, revisa tu invitación para un invitado adicional. La boda es estrictamente para adultos y te pedimos que no traigas invitados no invitados al evento.'
+        'answer' => 'Revisa tu invitación para ver si tienes un invitado adicional. La boda es estrictamente RSVP y solo se acomodarán los invitados que esten en la invitación. Contacta a la concierge para cualquier inquietud.'
     ],
     [
         'question' => 'How can I share any photos taken during the wedding or at the other events? Do you have a wedding hashtag?',
