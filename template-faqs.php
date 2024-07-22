@@ -207,11 +207,11 @@ $faqs = [
     ],
     [
         'question' => 'Who can I contact with any additional questions about the wedding?',
-        'answer' => 'Our wedding planning team, Aqua Bodas & Eventos, is here to assist you with any questions, inquiries, or planning advice! Our wedding planner, Marcela Blanco, along with our wedding concierges, Cristina and Zule, will handle all confirmations and assist our wedding guests. Our concierges are bilingual and they can be reached at +57 311 7762486 via phone/WhatsApp or at concierge@eduardoyanamaria.com via email. Please do not hesitate to contact them for any assistance needed!'
+        'answer' => 'Our wedding planning team, Mary Cueter Bodas y Eventos, is here to assist you with any questions, inquiries, or planning advice! Our concierge Naiara Delgado can be reached at +57 314 3758378 via phone/WhatsApp or at conserjeria@marycueterbodasyeventos.com via email. Please do not hesitate to contact her for any assistance needed!'
     ],
     [
         'question' => '¿Con quién puedo comunicarme si tengo preguntas adicionales sobre la boda?',
-        'answer' => 'Nuestro equipo de planeacion, Aqua Bodas & Eventos, está aquí para asistirte con cualquier pregunta, consulta o consejo con tus planes! Nuestra wedding planner, Marcela Blanco, junto con nuestras conserjes de bodas, Cristina y Zule, se encargarán de todas las confirmaciones y de asistir a nuestros invitados. Nuestras conserjes son bilingües y pueden ser contactadas al +57 311 7762486 por teléfono/WhatsApp o por correo electronico a concierge@eduardoyanamaria.com ¡No dudes en contactarlas para cualquier asistencia que necesites!'
+        'answer' => 'Nuestro equipo de planeación, Mary Cueter Bodas y Eventos, está aquí para asistirte con cualquier pregunta, consulta o consejo con tus planes! Nuestra conserje Naiara Delgado puede ser contactadas al +57 314 3758378 por teléfono/WhatsApp o por correo electrónico a conserjeria@marycueterbodasyeventos.com ¡No dudes en contactarla para cualquier asistencia que necesites!'
     ]
 ]
 
