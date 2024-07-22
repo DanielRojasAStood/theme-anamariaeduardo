@@ -211,7 +211,7 @@ $faqs = [
     ],
     [
         'question' => '¿Con quién puedo comunicarme si tengo preguntas adicionales sobre la boda?',
-        'answer' => 'Nuestro equipo de planeación, Mary Cueter Bodas y Eventos, está aquí para asistirte con cualquier pregunta, consulta o consejo con tus planes! Nuestra conserje Naiara Delgado puede ser contactadas al +57 314 3758378 por teléfono/WhatsApp o por correo electrónico a conserjeria@marycueterbodasyeventos.com ¡No dudes en contactarla para cualquier asistencia que necesites!'
+        'answer' => 'Nuestro equipo de planeación, Mary Cueter Bodas y Eventos, está aquí para asistirte con cualquier pregunta, consulta o consejo con tus planes! Nuestra conserje Naiara Delgado puede ser contactada al +57 314 3758378 por teléfono/WhatsApp o por correo electrónico a conserjeria@marycueterbodasyeventos.com ¡No dudes en contactarla para cualquier asistencia que necesites!'
     ]
 ]
 
